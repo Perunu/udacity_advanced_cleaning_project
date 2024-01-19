@@ -1,0 +1,4428 @@
+country,year,co2_emissions
+Aruba,1990,1840.834
+Andorra,1990,
+Afghanistan,1990,2676.91
+Angola,1990,4429.736
+Albania,1990,7488.014
+United Arab Emirates,1990,52009.061
+Argentina,1990,112613.57
+Armenia,1990,
+American Samoa,1990,
+Antigua and Barbuda,1990,300.694
+Australia,1990,287331.452
+Austria,1990,60960.208
+Azerbaijan,1990,
+Burundi,1990,304.361
+Belgium,1990,108469.86
+Benin,1990,715.065
+Burkina Faso,1990,586.72
+Bangladesh,1990,15533.412
+Bulgaria,1990,77729.399
+Bahrain,1990,11884.747
+"Bahamas, The",1990,1950.844
+Bosnia and Herzegovina,1990,
+Belarus,1990,
+Belize,1990,311.695
+Bermuda,1990,597.721
+Bolivia,1990,5504.167
+Brazil,1990,208886.988
+Barbados,1990,1074.431
+Brunei Darussalam,1990,6420.917
+Bhutan,1990,128.345
+Botswana,1990,2178.198
+Central African Republic,1990,198.018
+Canada,1990,450076.579
+Switzerland,1990,42966.239
+Channel Islands,1990,
+Chile,1990,34902.506
+China,1990,2460744.017
+Cote d'Ivoire,1990,5797.527
+Cameroon,1990,1738.158
+"Congo, Rep.",1990,1188.108
+Cook Islands,1990,22.002
+Colombia,1990,57337.212
+Comoros,1990,77.007
+Cape Verde,1990,88.008
+Costa Rica,1990,2955.602
+Cuba,1990,33340.364
+Curacao,1990,
+Cayman Islands,1990,253.023
+Cyprus,1990,4653.423
+Czech Republic,1990,
+Germany,1990,55.005
+Djibouti,1990,399.703
+Dominica,1990,58.672
+Denmark,1990,50421.25
+Dominican Republic,1990,9570.87
+Algeria,1990,78895.505
+East Asia & Pacific,1990,3093880.16469856
+Europe & Central Asia,1990,
+Ecuador,1990,16835.197
+"Egypt, Arab Rep.",1990,75943.57
+Euro area,1990,1649668.42640033
+Eritrea,1990,
+Spain,1990,227592.355
+Estonia,1990,
+Ethiopia,1990,3017.941
+Finland,1990,50941.964
+Fiji,1990,817.741
+France,1990,399028.272
+Faeroe Islands,1990,623.39
+"Micronesia, Fed. Sts.",1990,
+Gabon,1990,4844.107
+United Kingdom,1990,570218.5
+Georgia,1990,
+Ghana,1990,3931.024
+Gibraltar,1990,95.342
+Guinea,1990,1056.096
+"Gambia, The",1990,190.684
+Guinea-Bissau,1990,253.023
+Equatorial Guinea,1990,121.011
+Greece,1990,72723.944
+Grenada,1990,121.011
+Greenland,1990,557.384
+Guatemala,1990,5086.129
+Guam,1990,
+Guyana,1990,1140.437
+High income,1990,10605543.0629947
+"Hong Kong SAR, China",1990,27660.181
+Honduras,1990,2592.569
+Croatia,1990,
+Haiti,1990,993.757
+Hungary,1990,62991.726
+Indonesia,1990,149565.929
+Isle of Man,1990,
+India,1990,690576.774
+Ireland,1990,30417.765
+"Iran, Islamic Rep.",1990,227185.318
+Iraq,1990,52555.444
+Iceland,1990,2071.855
+Israel,1990,33534.715
+Italy,1990,424183.892
+Jamaica,1990,7964.724
+Jordan,1990,10403.279
+Japan,1990,1094705.843
+Kazakhstan,1990,
+Kenya,1990,5823.196
+Kyrgyz Republic,1990,
+Cambodia,1990,451.041
+Kiribati,1990,22.002
+St. Kitts and Nevis,1990,66.006
+"Korea, Rep.",1990,243815.163
+Kosovo,1990,
+Kuwait,1990,45423.129
+Latin America & Caribbean,1990,986228.649
+Lao PDR,1990,234.688
+Lebanon,1990,9097.827
+Liberia,1990,484.044
+Libya,1990,40318.665
+St. Lucia,1990,165.015
+Low income,1990,329171.317562467
+Liechtenstein,1990,
+Sri Lanka,1990,3773.343
+Lower middle income,1990,1981551.51160066
+Low & middle income,1990,9540578.44436122
+Lesotho,1990,
+Lithuania,1990,
+Luxembourg,1990,9893.566
+Latvia,1990,
+"Macao SAR, China",1990,1034.094
+St. Martin (French part),1990,
+Morocco,1990,23542.14
+Monaco,1990,
+Moldova,1990,
+Madagascar,1990,986.423
+Maldives,1990,154.014
+Mexico,1990,325603.931
+Marshall Islands,1990,47.671
+Middle income,1990,9206507.1897381
+"Macedonia, FYR",1990,
+Mali,1990,421.705
+Malta,1990,2178.198
+Myanmar,1990,4275.722
+Middle East & North Africa,1990,566372.448569626
+Montenegro,1990,
+Mongolia,1990,10043.913
+Northern Mariana Islands,1990,
+Mozambique,1990,1001.091
+Mauritania,1990,2665.909
+Mauritius,1990,1463.133
+Malawi,1990,612.389
+Malaysia,1990,56592.811
+Mayotte,1990,
+Namibia,1990,7.334
+New Caledonia,1990,1624.481
+Niger,1990,832.409
+Nigeria,1990,45375.458
+Nicaragua,1990,2643.907
+Niue,1990,3.667
+Netherlands,1990,164127.586
+Norway,1990,31330.848
+Nepal,1990,634.391
+Nauru,1990,132.012
+New Zealand,1990,24022.517
+Oman,1990,10351.941
+Pakistan,1990,68565.566
+Panama,1990,3135.285
+Peru,1990,21169.591
+Philippines,1990,44532.048
+Palau,1990,234.688
+Papua New Guinea,1990,2141.528
+Poland,1990,366773.34
+Puerto Rico,1990,
+"Korea, Dem. Rep.",1990,244834.589
+Portugal,1990,43725.308
+Paraguay,1990,2262.539
+French Polynesia,1990,630.724
+Qatar,1990,11774.737
+Romania,1990,158861.774
+Russian Federation,1990,
+Rwanda,1990,682.062
+South Asia,1990,782042.755
+Saudi Arabia,1990,215054.882
+Sudan,1990,5559.172
+Senegal,1990,3182.956
+Singapore,1990,46941.267
+Small island developing states,1990,175300.037959028
+Solomon Islands,1990,161.348
+Sierra Leone,1990,388.702
+El Salvador,1990,2618.238
+San Marino,1990,
+Somalia,1990,18.335
+Serbia,1990,
+Sub-Saharan Africa,1990,464093.668056886
+Sao Tome and Principe,1990,66.006
+Suriname,1990,1811.498
+Slovak Republic,1990,
+Slovenia,1990,
+Sweden,1990,51708.367
+Swaziland,1990,425.372
+Sint Maarten (Dutch part),1990,
+Seychelles,1990,113.677
+Syrian Arab Republic,1990,37451.071
+Turks and Caicos Islands,1990,
+Chad,1990,146.68
+Togo,1990,773.737
+Thailand,1990,95833.378
+Tajikistan,1990,
+Turkmenistan,1990,
+Timor-Leste,1990,
+Tonga,1990,77.007
+Trinidad and Tobago,1990,16959.875
+Tunisia,1990,13267.206
+Turkey,1990,150790.707
+Tuvalu,1990,
+Tanzania,1990,2372.549
+Uganda,1990,817.741
+Ukraine,1990,
+Upper middle income,1990,7223726.53343588
+Uruguay,1990,3993.363
+United States,1990,4879376.206
+Uzbekistan,1990,
+St. Vincent and the Grenadines,1990,80.674
+"Venezuela, RB",1990,122162.438
+Virgin Islands (U.S.),1990,
+Vietnam,1990,21407.946
+Vanuatu,1990,69.673
+West Bank and Gaza,1990,
+World,1990,22529936.0
+Samoa,1990,124.678
+"Yemen, Rep.",1990,-2999.606
+South Africa,1990,333513.65
+"Congo, Dem. Rep.",1990,4070.37
+Zambia,1990,2445.889
+Zimbabwe,1990,15504.076
+Aruba,1991,1928.842
+Andorra,1991,
+Afghanistan,1991,2493.56
+Angola,1991,4367.397
+Albania,1991,3971.361
+United Arab Emirates,1991,57010.849
+Argentina,1991,117021.304
+Armenia,1991,
+American Samoa,1991,
+Antigua and Barbuda,1991,293.36
+Australia,1991,281530.258
+Austria,1991,65888.656
+Azerbaijan,1991,
+Burundi,1991,344.698
+Belgium,1991,117578.688
+Benin,1991,828.742
+Burkina Faso,1991,627.057
+Bangladesh,1991,15940.449
+Bulgaria,1991,59706.094
+Bahrain,1991,11503.379
+"Bahamas, The",1991,1782.162
+Bosnia and Herzegovina,1991,
+Belarus,1991,
+Belize,1991,359.366
+Bermuda,1991,509.713
+Bolivia,1991,5779.192
+Brazil,1991,219330.604
+Barbados,1991,1206.443
+Brunei Darussalam,1991,5815.862
+Bhutan,1991,187.017
+Botswana,1991,2148.862
+Central African Republic,1991,205.352
+Canada,1991,449053.486
+Switzerland,1991,42350.183
+Channel Islands,1991,
+Chile,1991,32991.999
+China,1991,2584538.27
+Cote d'Ivoire,1991,5636.179
+Cameroon,1991,1111.101
+"Congo, Rep.",1991,1265.115
+Cook Islands,1991,22.002
+Colombia,1991,57120.859
+Comoros,1991,77.007
+Cape Verde,1991,91.675
+Costa Rica,1991,3336.97
+Cuba,1991,29633.027
+Curacao,1991,
+Cayman Islands,1991,275.025
+Cyprus,1991,4741.431
+Czech Republic,1991,
+Germany,1991,960992.355
+Djibouti,1991,399.703
+Dominica,1991,58.672
+Denmark,1991,61433.251
+Dominican Republic,1991,10135.588
+Algeria,1991,81458.738
+East Asia & Pacific,1991,3289803.57661822
+Europe & Central Asia,1991,
+Ecuador,1991,16486.832
+"Egypt, Arab Rep.",1991,78715.822
+Euro area,1991,2718904.68792074
+Eritrea,1991,
+Spain,1991,235080.369
+Estonia,1991,
+Ethiopia,1991,2984.938
+Finland,1991,54891.323
+Fiji,1991,674.728
+France,1991,427667.542
+Faeroe Islands,1991,594.054
+"Micronesia, Fed. Sts.",1991,
+Gabon,1991,1477.801
+United Kingdom,1991,593808.311
+Georgia,1991,
+Ghana,1991,4044.701
+Gibraltar,1991,106.343
+Guinea,1991,1074.431
+"Gambia, The",1991,198.018
+Guinea-Bissau,1991,256.69
+Equatorial Guinea,1991,201.685
+Greece,1991,67615.813
+Grenada,1991,121.011
+Greenland,1991,550.05
+Guatemala,1991,5053.126
+Guam,1991,
+Guyana,1991,1122.102
+High income,1991,11763151.9460281
+"Hong Kong SAR, China",1991,28892.293
+Honduras,1991,2698.912
+Croatia,1991,
+Haiti,1991,997.424
+Hungary,1991,63435.433
+Indonesia,1991,179730.671
+Isle of Man,1991,
+India,1991,737851.738
+Ireland,1991,33109.343
+"Iran, Islamic Rep.",1991,233745.581
+Iraq,1991,47421.644
+Iceland,1991,2024.184
+Israel,1991,34315.786
+Italy,1991,433974.782
+Jamaica,1991,8173.743
+Jordan,1991,9798.224
+Japan,1991,1100598.712
+Kazakhstan,1991,
+Kenya,1991,4840.44
+Kyrgyz Republic,1991,
+Cambodia,1991,462.042
+Kiribati,1991,22.002
+St. Kitts and Nevis,1991,73.34
+"Korea, Rep.",1991,268431.734
+Kosovo,1991,
+Kuwait,1991,10579.295
+Latin America & Caribbean,1991,1001061.664
+Lao PDR,1991,253.023
+Lebanon,1991,9497.53
+Liberia,1991,286.026
+Libya,1991,42489.529
+St. Lucia,1991,172.349
+Low income,1991,335600.293117305
+Liechtenstein,1991,
+Sri Lanka,1991,4063.036
+Lower middle income,1991,2133997.3540996
+Low & middle income,1991,9929307.62144372
+Lesotho,1991,
+Lithuania,1991,
+Luxembourg,1991,10630.633
+Latvia,1991,
+"Macao SAR, China",1991,1092.766
+St. Martin (French part),1991,
+Morocco,1991,24975.937
+Monaco,1991,
+Moldova,1991,
+Madagascar,1991,1074.431
+Maldives,1991,172.349
+Mexico,1991,336586.596
+Marshall Islands,1991,51.338
+Middle income,1991,9591788.54175639
+"Macedonia, FYR",1991,
+Mali,1991,436.373
+Malta,1991,2200.2
+Myanmar,1991,4180.38
+Middle East & North Africa,1991,597625.188919937
+Montenegro,1991,
+Mongolia,1991,12207.443
+Northern Mariana Islands,1991,
+Mozambique,1991,1026.76
+Mauritania,1991,2750.25
+Mauritius,1991,1521.805
+Malawi,1991,660.06
+Malaysia,1991,68591.235
+Mayotte,1991,
+Namibia,1991,14.668
+New Caledonia,1991,1789.496
+Niger,1991,821.408
+Nigeria,1991,45247.113
+Nicaragua,1991,2068.188
+Niue,1991,3.667
+Netherlands,1991,172704.699
+Norway,1991,32023.911
+Nepal,1991,960.754
+Nauru,1991,132.012
+New Zealand,1991,24458.89
+Oman,1991,10949.662
+Pakistan,1991,68242.87
+Panama,1991,3391.975
+Peru,1991,20417.856
+Philippines,1991,45830.166
+Palau,1991,234.688
+Papua New Guinea,1991,2064.521
+Poland,1991,361591.869
+Puerto Rico,1991,
+"Korea, Dem. Rep.",1991,251145.496
+Portugal,1991,48239.385
+Paraguay,1991,2233.203
+French Polynesia,1991,638.058
+Qatar,1991,17674.94
+Romania,1991,137530.835
+Russian Federation,1991,
+Rwanda,1991,630.724
+South Asia,1991,829911.773
+Saudi Arabia,1991,268475.738
+Sudan,1991,5386.823
+Senegal,1991,3424.978
+Singapore,1991,47425.311
+Small island developing states,1991,176596.642698742
+Solomon Islands,1991,161.348
+Sierra Leone,1991,469.376
+El Salvador,1991,3230.627
+San Marino,1991,
+Somalia,1991,3.667
+Serbia,1991,
+Sub-Saharan Africa,1991,472215.621479124
+Sao Tome and Principe,1991,69.673
+Suriname,1991,2101.191
+Slovak Republic,1991,
+Slovenia,1991,
+Sweden,1991,55401.036
+Swaziland,1991,326.363
+Sint Maarten (Dutch part),1991,
+Seychelles,1991,143.013
+Syrian Arab Republic,1991,43193.593
+Turks and Caicos Islands,1991,
+Chad,1991,69.673
+Togo,1991,843.41
+Thailand,1991,116148.558
+Tajikistan,1991,
+Turkmenistan,1991,
+Timor-Leste,1991,
+Tonga,1991,91.675
+Trinidad and Tobago,1991,21048.58
+Tunisia,1991,15489.408
+Turkey,1991,151799.132
+Tuvalu,1991,
+Tanzania,1991,2434.888
+Uganda,1991,850.744
+Ukraine,1991,
+Upper middle income,1991,7456999.42934626
+Uruguay,1991,4554.414
+United States,1991,4870238.042
+Uzbekistan,1991,
+St. Vincent and the Grenadines,1991,77.007
+"Venezuela, RB",1991,115440.827
+Virgin Islands (U.S.),1991,
+Vietnam,1991,21451.95
+Vanuatu,1991,66.006
+West Bank and Gaza,1991,
+World,1991,22867024.0
+Samoa,1991,124.678
+"Yemen, Rep.",1991,10109.919
+South Africa,1991,346337.149
+"Congo, Dem. Rep.",1991,3755.008
+Zambia,1991,2416.553
+Zimbabwe,1991,15823.105
+Aruba,1992,1723.49
+Andorra,1992,
+Afghanistan,1992,1426.463
+Angola,1992,4418.735
+Albania,1992,2387.217
+United Arab Emirates,1992,58136.618
+Argentina,1992,121447.373
+Armenia,1992,3681.668
+American Samoa,1992,
+Antigua and Barbuda,1992,293.36
+Australia,1992,294456.433
+Austria,1992,60531.169
+Azerbaijan,1992,44172.682
+Burundi,1992,319.029
+Belgium,1992,114373.73
+Benin,1992,905.749
+Burkina Faso,1992,630.724
+Bangladesh,1992,17748.28
+Bulgaria,1992,53600.539
+Bahrain,1992,10590.296
+"Bahamas, The",1992,1793.163
+Bosnia and Herzegovina,1992,3938.358
+Belarus,1992,87487.286
+Belize,1992,355.699
+Bermuda,1992,407.037
+Bolivia,1992,6648.271
+Brazil,1992,220705.729
+Barbados,1992,979.089
+Brunei Darussalam,1992,5808.528
+Bhutan,1992,216.353
+Botswana,1992,3296.633
+Central African Republic,1992,216.353
+Canada,1992,467648.843
+Switzerland,1992,43325.605
+Channel Islands,1992,
+Chile,1992,34117.768
+China,1992,2695982.067
+Cote d'Ivoire,1992,4624.087
+Cameroon,1992,3795.345
+"Congo, Rep.",1992,1573.143
+Cook Islands,1992,22.002
+Colombia,1992,62049.307
+Comoros,1992,77.007
+Cape Verde,1992,102.676
+Costa Rica,1992,3791.678
+Cuba,1992,31338.182
+Curacao,1992,
+Cayman Islands,1992,278.692
+Cyprus,1992,5276.813
+Czech Republic,1992,139503.681
+Germany,1992,928326.719
+Djibouti,1992,414.371
+Dominica,1992,58.672
+Denmark,1992,54528.29
+Dominican Republic,1992,11206.352
+Algeria,1992,82261.811
+East Asia & Pacific,1992,3450812.99625647
+Europe & Central Asia,1992,3885852.60760128
+Ecuador,1992,22302.694
+"Egypt, Arab Rep.",1992,81264.387
+Euro area,1992,2655681.737
+Eritrea,1992,
+Spain,1992,245098.613
+Estonia,1992,23028.76
+Ethiopia,1992,2966.603
+Finland,1992,49126.799
+Fiji,1992,733.4
+France,1992,397037.091
+Faeroe Islands,1992,660.06
+"Micronesia, Fed. Sts.",1992,
+Gabon,1992,2130.527
+United Kingdom,1992,587453.4
+Georgia,1992,15335.394
+Ghana,1992,4096.039
+Gibraltar,1992,91.675
+Guinea,1992,1074.431
+"Gambia, The",1992,198.018
+Guinea-Bissau,1992,260.357
+Equatorial Guinea,1992,216.353
+Greece,1992,75503.53
+Grenada,1992,128.345
+Greenland,1992,484.044
+Guatemala,1992,6017.547
+Guam,1992,
+Guyana,1992,1052.429
+High income,1992,11821713.9321519
+"Hong Kong SAR, China",1992,33428.372
+Honduras,1992,3076.613
+Croatia,1992,16442.828
+Haiti,1992,909.416
+Hungary,1992,58716.004
+Indonesia,1992,202576.081
+Isle of Man,1992,
+India,1992,783634.233
+Ireland,1992,31253.841
+"Iran, Islamic Rep.",1992,247471.162
+Iraq,1992,61671.606
+Iceland,1992,1892.172
+Israel,1992,41499.439
+Italy,1992,432959.023
+Jamaica,1992,8096.736
+Jordan,1992,12266.115
+Japan,1992,1123660.475
+Kazakhstan,1992,261306.753
+Kenya,1992,5540.837
+Kyrgyz Republic,1992,10861.654
+Cambodia,1992,476.71
+Kiribati,1992,22.002
+St. Kitts and Nevis,1992,73.34
+"Korea, Rep.",1992,286568.716
+Kosovo,1992,
+Kuwait,1992,17612.601
+Latin America & Caribbean,1992,1022689.63
+Lao PDR,1992,278.692
+Lebanon,1992,11356.699
+Liberia,1992,289.693
+Libya,1992,40571.688
+St. Lucia,1992,205.352
+Low income,1992,343641.368282571
+Liechtenstein,1992,
+Sri Lanka,1992,5056.793
+Lower middle income,1992,2330010.52094174
+Low & middle income,1992,10325599.9697127
+Lesotho,1992,
+Lithuania,1992,22152.347
+Luxembourg,1992,11804.073
+Latvia,1992,14051.944
+"Macao SAR, China",1992,1085.432
+St. Martin (French part),1992,
+Morocco,1992,26039.367
+Monaco,1992,
+Moldova,1992,20971.573
+Madagascar,1992,1045.095
+Maldives,1992,253.023
+Mexico,1992,342629.812
+Marshall Islands,1992,55.005
+Middle income,1992,9982401.62726093
+"Macedonia, FYR",1992,10777.313
+Mali,1992,443.707
+Malta,1992,2258.872
+Myanmar,1992,4888.111
+Middle East & North Africa,1992,637511.141062251
+Montenegro,1992,
+Mongolia,1992,11078.007
+Northern Mariana Islands,1992,
+Mozambique,1992,1001.091
+Mauritania,1992,2944.601
+Mauritius,1992,1708.822
+Malawi,1992,656.393
+Malaysia,1992,75298.178
+Mayotte,1992,
+Namibia,1992,14.668
+New Caledonia,1992,1771.161
+Niger,1992,784.738
+Nigeria,1992,64883.898
+Nicaragua,1992,2489.893
+Niue,1992,3.667
+Netherlands,1992,168113.615
+Norway,1992,29677.031
+Nepal,1992,1331.121
+Nauru,1992,135.679
+New Zealand,1992,26171.379
+Oman,1992,12097.433
+Pakistan,1992,72789.95
+Panama,1992,4015.365
+Peru,1992,20388.52
+Philippines,1992,50322.241
+Palau,1992,113.677
+Papua New Guinea,1992,2053.52
+Poland,1992,357283.144
+Puerto Rico,1992,
+"Korea, Dem. Rep.",1992,255413.884
+Portugal,1992,52372.094
+Paraguay,1992,2621.905
+French Polynesia,1992,645.392
+Qatar,1992,26802.103
+Romania,1992,125063.035
+Russian Federation,1992,2220720.532
+Rwanda,1992,638.058
+South Asia,1992,882456.216
+Saudi Arabia,1992,286807.071
+Sudan,1992,4756.099
+Senegal,1992,3479.983
+Singapore,1992,50267.236
+Small island developing states,1992,182115.287783078
+Solomon Islands,1992,161.348
+Sierra Leone,1992,473.043
+El Salvador,1992,3428.645
+San Marino,1992,
+Somalia,1992,11.001
+Serbia,1992,
+Sub-Saharan Africa,1992,475675.861990374
+Sao Tome and Principe,1992,73.34
+Suriname,1992,2112.192
+Slovak Republic,1992,45646.816
+Slovenia,1992,12970.179
+Sweden,1992,57131.86
+Swaziland,1992,264.024
+Sint Maarten (Dutch part),1992,
+Seychelles,1992,165.015
+Syrian Arab Republic,1992,44436.706
+Turks and Caicos Islands,1992,
+Chad,1992,88.008
+Togo,1992,836.076
+Thailand,1992,126830.529
+Tajikistan,1992,7220.323
+Turkmenistan,1992,28067.218
+Timor-Leste,1992,
+Tonga,1992,88.008
+Trinidad and Tobago,1992,20986.241
+Tunisia,1992,15023.699
+Turkey,1992,154494.377
+Tuvalu,1992,
+Tanzania,1992,2361.548
+Uganda,1992,861.745
+Ukraine,1992,641680.996
+Upper middle income,1992,7652334.29270054
+Uruguay,1992,5170.47
+United States,1992,4876006.233
+Uzbekistan,1992,114014.364
+St. Vincent and the Grenadines,1992,84.341
+"Venezuela, RB",1992,105873.624
+Virgin Islands (U.S.),1992,
+Vietnam,1992,22387.035
+Vanuatu,1992,66.006
+West Bank and Gaza,1992,
+World,1992,22445664.0
+Samoa,1992,128.345
+"Yemen, Rep.",1992,14381.974
+South Africa,1992,324852.196
+"Congo, Dem. Rep.",1992,3619.329
+Zambia,1992,2456.89
+Zimbabwe,1992,16901.203
+Aruba,1993,1771.161
+Andorra,1993,
+Afghanistan,1993,1375.125
+Angola,1993,5801.194
+Albania,1993,2343.213
+United Arab Emirates,1993,65980.331
+Argentina,1993,118609.115
+Armenia,1993,2929.933
+American Samoa,1993,
+Antigua and Barbuda,1993,308.028
+Australia,1993,302116.796
+Austria,1993,58213.625
+Azerbaijan,1993,43285.268
+Burundi,1993,337.364
+Belgium,1993,108924.568
+Benin,1993,1133.103
+Burkina Faso,1993,627.057
+Bangladesh,1993,17407.249
+Bulgaria,1993,69328.302
+Bahrain,1993,15141.043
+"Bahamas, The",1993,1716.156
+Bosnia and Herzegovina,1993,3270.964
+Belarus,1993,74451.101
+Belize,1993,377.701
+Bermuda,1993,480.377
+Bolivia,1993,8038.064
+Brazil,1993,230738.641
+Barbados,1993,1114.768
+Brunei Darussalam,1993,5588.508
+Bhutan,1993,187.017
+Botswana,1993,3509.319
+Central African Republic,1993,223.687
+Canada,1993,477920.11
+Switzerland,1993,41022.729
+Channel Islands,1993,
+Chile,1993,36288.632
+China,1993,2878694.009
+Cote d'Ivoire,1993,5892.869
+Cameroon,1993,3898.021
+"Congo, Rep.",1993,1543.807
+Cook Islands,1993,22.002
+Colombia,1993,64022.153
+Comoros,1993,77.007
+Cape Verde,1993,102.676
+Costa Rica,1993,3953.026
+Cuba,1993,29347.001
+Curacao,1993,
+Cayman Islands,1993,289.693
+Cyprus,1993,5665.515
+Czech Republic,1993,131964.329
+Germany,1993,911425.516
+Djibouti,1993,429.039
+Dominica,1993,62.339
+Denmark,1993,57337.212
+Dominican Republic,1993,11939.752
+Algeria,1993,82474.497
+East Asia & Pacific,1993,3688790.23116158
+Europe & Central Asia,1993,3544417.82861649
+Ecuador,1993,24187.532
+"Egypt, Arab Rep.",1993,93156.468
+Euro area,1993,2587669.888
+Eritrea,1993,
+Spain,1993,226954.297
+Estonia,1993,18628.36
+Ethiopia,1993,5163.136
+Finland,1993,51935.721
+Fiji,1993,773.737
+France,1993,389105.37
+Faeroe Islands,1993,597.721
+"Micronesia, Fed. Sts.",1993,
+Gabon,1993,3281.965
+United Kingdom,1993,567523.255
+Georgia,1993,9952.238
+Ghana,1993,4664.424
+Gibraltar,1993,333.697
+Guinea,1993,1103.767
+"Gambia, The",1993,209.019
+Guinea-Bissau,1993,278.692
+Equatorial Guinea,1993,102.676
+Greece,1993,75646.543
+Grenada,1993,143.013
+Greenland,1993,502.379
+Guatemala,1993,5658.181
+Guam,1993,
+Guyana,1993,1056.096
+High income,1993,12122350.9277385
+"Hong Kong SAR, China",1993,35129.86
+Honduras,1993,2849.259
+Croatia,1993,16428.16
+Haiti,1993,663.727
+Hungary,1993,60124.132
+Indonesia,1993,218600.871
+Isle of Man,1993,
+India,1993,814297.687
+Ireland,1993,31286.844
+"Iran, Islamic Rep.",1993,229678.878
+Iraq,1993,66801.739
+Iceland,1993,1991.181
+Israel,1993,45148.104
+Italy,1993,422680.422
+Jamaica,1993,8415.765
+Jordan,1993,12101.1
+Japan,1993,1108673.446
+Kazakhstan,1993,221105.432
+Kenya,1993,6347.577
+Kyrgyz Republic,1993,8305.755
+Cambodia,1993,476.71
+Kiribati,1993,22.002
+St. Kitts and Nevis,1993,84.341
+"Korea, Rep.",1993,317085.49
+Kosovo,1993,
+Kuwait,1993,29376.337
+Latin America & Caribbean,1993,1056323.354
+Lao PDR,1993,278.692
+Lebanon,1993,11657.393
+Liberia,1993,322.696
+Libya,1993,42636.209
+St. Lucia,1993,227.354
+Low income,1993,348730.089317485
+Liechtenstein,1993,
+Sri Lanka,1993,4902.779
+Lower middle income,1993,2293583.16403491
+Low & middle income,1993,10316726.5309594
+Lesotho,1993,
+Lithuania,1993,17495.257
+Luxembourg,1993,10821.317
+Latvia,1993,12068.097
+"Macao SAR, China",1993,1188.108
+St. Martin (French part),1993,
+Morocco,1993,28217.565
+Monaco,1993,
+Moldova,1993,15628.754
+Madagascar,1993,1070.764
+Maldives,1993,216.353
+Mexico,1993,341441.704
+Marshall Islands,1993,62.339
+Middle income,1993,9968446.68593403
+"Macedonia, FYR",1993,10340.94
+Mali,1993,454.708
+Malta,1993,2669.576
+Myanmar,1993,5342.819
+Middle East & North Africa,1993,640556.430389646
+Montenegro,1993,
+Mongolia,1993,9314.18
+Northern Mariana Islands,1993,
+Mozambique,1993,1078.098
+Mauritania,1993,2962.936
+Mauritius,1993,1774.828
+Malawi,1993,693.063
+Malaysia,1993,91722.671
+Mayotte,1993,
+Namibia,1993,18.335
+New Caledonia,1993,1771.161
+Niger,1993,880.08
+Nigeria,1993,60061.793
+Nicaragua,1993,2302.876
+Niue,1993,3.667
+Netherlands,1993,172150.982
+Norway,1993,31316.18
+Nepal,1993,1466.8
+Nauru,1993,135.679
+New Zealand,1993,25511.319
+Oman,1993,13468.891
+Pakistan,1993,78008.091
+Panama,1993,4129.042
+Peru,1993,23556.808
+Philippines,1993,51290.329
+Palau,1993,110.01
+Papua New Guinea,1993,1994.848
+Poland,1993,352519.711
+Puerto Rico,1993,
+"Korea, Dem. Rep.",1993,262139.162
+Portugal,1993,47472.982
+Paraguay,1993,2951.935
+French Polynesia,1993,649.059
+Qatar,1993,30722.126
+Romania,1993,122133.102
+Russian Federation,1993,2030029.198
+Rwanda,1993,641.725
+South Asia,1993,917861.101
+Saudi Arabia,1993,315567.352
+Sudan,1993,2907.931
+Senegal,1993,3593.66
+Singapore,1993,54627.299
+Small island developing states,1993,184251.686339974
+Solomon Islands,1993,157.681
+Sierra Leone,1993,506.046
+El Salvador,1993,3890.687
+San Marino,1993,
+Somalia,1993,11.001
+Serbia,1993,
+Sub-Saharan Africa,1993,494622.157524726
+Sao Tome and Principe,1993,73.34
+Suriname,1993,2156.196
+Slovak Republic,1993,40971.391
+Slovenia,1993,13116.859
+Sweden,1993,53149.498
+Swaziland,1993,132.012
+Sint Maarten (Dutch part),1993,
+Seychelles,1993,161.348
+Syrian Arab Republic,1993,47117.283
+Turks and Caicos Islands,1993,
+Chad,1993,99.009
+Togo,1993,865.412
+Thailand,1993,142554.625
+Tajikistan,1993,5170.47
+Turkmenistan,1993,27663.848
+Timor-Leste,1993,
+Tonga,1993,102.676
+Trinidad and Tobago,1993,16820.529
+Tunisia,1993,16501.5
+Turkey,1993,164259.598
+Tuvalu,1993,
+Tanzania,1993,2636.573
+Uganda,1993,821.408
+Ukraine,1993,546111.642
+Upper middle income,1993,7674832.16551687
+Uruguay,1993,4466.406
+United States,1993,5167485.062
+Uzbekistan,1993,118532.108
+St. Vincent and the Grenadines,1993,102.676
+"Venezuela, RB",1993,124355.304
+Virgin Islands (U.S.),1993,
+Vietnam,1993,22970.088
+Vanuatu,1993,66.006
+West Bank and Gaza,1993,
+World,1993,22467648.0
+Samoa,1993,128.345
+"Yemen, Rep.",1993,9431.524
+South Africa,1993,342549.138
+"Congo, Dem. Rep.",1993,3410.31
+Zambia,1993,2500.894
+Zimbabwe,1993,16208.14
+Aruba,1994,1763.827
+Andorra,1994,
+Afghanistan,1994,1320.12
+Angola,1994,3890.687
+Albania,1994,1928.842
+United Arab Emirates,1994,73130.981
+Argentina,1994,123350.546
+Armenia,1994,2966.603
+American Samoa,1994,
+Antigua and Barbuda,1994,311.695
+Australia,1994,303957.63
+Austria,1994,57586.568
+Azerbaijan,1994,42383.186
+Burundi,1994,341.031
+Belgium,1994,113306.633
+Benin,1994,1265.115
+Burkina Faso,1994,645.392
+Bangladesh,1994,18969.391
+Bulgaria,1994,55848.41
+Bahrain,1994,15254.72
+"Bahamas, The",1994,1719.823
+Bosnia and Herzegovina,1994,3630.33
+Belarus,1994,65914.325
+Belize,1994,374.034
+Bermuda,1994,473.043
+Bolivia,1994,8907.143
+Brazil,1994,242154.012
+Barbados,1994,748.068
+Brunei Darussalam,1994,5408.825
+Bhutan,1994,212.686
+Botswana,1994,3509.319
+Central African Republic,1994,234.688
+Canada,1994,454491.647
+Switzerland,1994,41470.103
+Channel Islands,1994,
+Chile,1994,40146.316
+China,1994,3058241.33
+Cote d'Ivoire,1994,5251.144
+Cameroon,1994,3817.347
+"Congo, Rep.",1994,2148.862
+Cook Islands,1994,22.002
+Colombia,1994,67571.809
+Comoros,1994,77.007
+Cape Verde,1994,110.01
+Costa Rica,1994,5269.479
+Cuba,1994,32199.927
+Curacao,1994,
+Cayman Islands,1994,289.693
+Cyprus,1994,5812.195
+Czech Republic,1994,127688.607
+Germany,1994,903622.14
+Djibouti,1994,429.039
+Dominica,1994,69.673
+Denmark,1994,61194.896
+Dominican Republic,1994,12676.819
+Algeria,1994,86350.516
+East Asia & Pacific,1994,3894961.09794064
+Europe & Central Asia,1994,3095729.97346661
+Ecuador,1994,13637.573
+"Egypt, Arab Rep.",1994,85312.755
+Euro area,1994,2581736.682
+Eritrea,1994,183.35
+Spain,1994,244658.573
+Estonia,1994,18661.363
+Ethiopia,1994,3003.273
+Finland,1994,59412.734
+Fiji,1994,828.742
+France,1994,369457.584
+Faeroe Islands,1994,520.714
+"Micronesia, Fed. Sts.",1994,
+Gabon,1994,3351.638
+United Kingdom,1994,563775.581
+Georgia,1994,6083.553
+Ghana,1994,5071.461
+Gibraltar,1994,399.703
+Guinea,1994,1228.445
+"Gambia, The",1994,209.019
+Guinea-Bissau,1994,278.692
+Equatorial Guinea,1994,36.67
+Greece,1994,78363.79
+Grenada,1994,165.015
+Greenland,1994,506.046
+Guatemala,1994,6838.955
+Guam,1994,
+Guyana,1994,1334.788
+High income,1994,12251534.4463261
+"Hong Kong SAR, China",1994,31429.857
+Honduras,1994,3336.97
+Croatia,1994,16875.534
+Haiti,1994,300.694
+Hungary,1994,58066.945
+Indonesia,1994,221413.46
+Isle of Man,1994,
+India,1994,864931.623
+Ireland,1994,32691.305
+"Iran, Islamic Rep.",1994,296744.641
+Iraq,1994,75045.155
+Iceland,1994,2009.516
+Israel,1994,47120.95
+Italy,1994,412163.466
+Jamaica,1994,8632.118
+Jordan,1994,13633.906
+Japan,1994,1174169.733
+Kazakhstan,1994,199488.467
+Kenya,1994,6556.596
+Kyrgyz Republic,1994,6061.551
+Cambodia,1994,539.049
+Kiribati,1994,22.002
+St. Kitts and Nevis,1994,88.008
+"Korea, Rep.",1994,340352.605
+Kosovo,1994,
+Kuwait,1994,34436.797
+Latin America & Caribbean,1994,1104848.765
+Lao PDR,1994,300.694
+Lebanon,1994,12742.825
+Liberia,1994,319.029
+Libya,1994,41862.472
+St. Lucia,1994,264.024
+Low income,1994,342353.550233243
+Liechtenstein,1994,
+Sri Lanka,1994,5408.825
+Lower middle income,1994,2249929.08954816
+Low & middle income,1994,10267189.5946147
+Lesotho,1994,
+Lithuania,1994,17359.578
+Luxembourg,1994,10219.929
+Latvia,1994,11268.691
+"Macao SAR, China",1994,1283.45
+St. Martin (French part),1994,
+Morocco,1994,29640.361
+Monaco,1994,
+Moldova,1994,12090.099
+Madagascar,1994,1316.453
+Maldives,1994,220.02
+Mexico,1994,362424.278
+Marshall Islands,1994,66.006
+Middle income,1994,9925277.49013368
+"Macedonia, FYR",1994,10469.285
+Mali,1994,462.042
+Malta,1994,2658.575
+Myanmar,1994,6244.901
+Middle East & North Africa,1994,717998.504887652
+Montenegro,1994,
+Mongolia,1994,7961.057
+Northern Mariana Islands,1994,
+Mozambique,1994,1070.764
+Mauritania,1994,3124.284
+Mauritius,1994,1624.481
+Malawi,1994,718.732
+Malaysia,1994,94010.879
+Mayotte,1994,
+Namibia,1994,29.336
+New Caledonia,1994,1723.49
+Niger,1994,872.746
+Nigeria,1994,46658.908
+Nicaragua,1994,2555.899
+Niue,1994,3.667
+Netherlands,1994,172745.036
+Norway,1994,29247.992
+Nepal,1994,1697.821
+Nauru,1994,135.679
+New Zealand,1994,26439.07
+Oman,1994,15269.388
+Pakistan,1994,84839.712
+Panama,1994,4781.768
+Peru,1994,23230.445
+Philippines,1994,56270.115
+Palau,1994,110.01
+Papua New Guinea,1994,2181.865
+Poland,1994,336161.224
+Puerto Rico,1994,
+"Korea, Dem. Rep.",1994,259641.935
+Portugal,1994,48767.433
+Paraguay,1994,3498.318
+French Polynesia,1994,568.385
+Qatar,1994,30223.414
+Romania,1994,116808.618
+Russian Federation,1994,1752998.349
+Rwanda,1994,619.723
+South Asia,1994,977600.198
+Saudi Arabia,1994,310616.902
+Sudan,1994,4444.404
+Senegal,1994,3901.688
+Singapore,1994,65367.942
+Small island developing states,1994,205721.799699016
+Solomon Islands,1994,154.014
+Sierra Leone,1994,583.053
+El Salvador,1994,4429.736
+San Marino,1994,
+Somalia,1994,11.001
+Serbia,1994,
+Sub-Saharan Africa,1994,497102.735925419
+Sao Tome and Principe,1994,73.34
+Suriname,1994,2163.53
+Slovak Republic,1994,40351.668
+Slovenia,1994,11257.69
+Sweden,1994,56435.13
+Swaziland,1994,484.044
+Sint Maarten (Dutch part),1994,
+Seychelles,1994,187.017
+Syrian Arab Republic,1994,48532.745
+Turks and Caicos Islands,1994,
+Chad,1994,102.676
+Togo,1994,832.409
+Thailand,1994,158278.721
+Tajikistan,1994,2354.214
+Turkmenistan,1994,33476.043
+Timor-Leste,1994,
+Tonga,1994,106.343
+Trinidad and Tobago,1994,19853.138
+Tunisia,1994,15940.449
+Turkey,1994,161659.695
+Tuvalu,1994,
+Tanzania,1994,2445.889
+Uganda,1994,744.401
+Ukraine,1994,447010.967
+Upper middle income,1994,7675342.97968241
+Uruguay,1994,4066.703
+United States,1994,5227176.488
+Uzbekistan,1994,110981.755
+St. Vincent and the Grenadines,1994,121.011
+"Venezuela, RB",1994,129947.479
+Virgin Islands (U.S.),1994,
+Vietnam,1994,26303.391
+Vanuatu,1994,66.006
+West Bank and Gaza,1994,
+World,1994,22896336.0
+Samoa,1994,121.011
+"Yemen, Rep.",1994,11367.7
+South Africa,1994,358929.627
+"Congo, Dem. Rep.",1994,2478.892
+Zambia,1994,2420.22
+Zimbabwe,1994,17645.604
+Aruba,1995,1785.829
+Andorra,1995,407.037
+Afghanistan,1995,1268.782
+Angola,1995,11012.001
+Albania,1995,2086.523
+United Arab Emirates,1995,70641.088
+Argentina,1995,122547.473
+Armenia,1995,3490.984
+American Samoa,1995,
+Antigua and Barbuda,1995,322.696
+Australia,1995,307433.946
+Austria,1995,60622.844
+Azerbaijan,1995,33586.053
+Burundi,1995,333.697
+Belgium,1995,112976.603
+Benin,1995,1327.454
+Burkina Faso,1995,627.057
+Bangladesh,1995,22816.074
+Bulgaria,1995,59805.103
+Bahrain,1995,16021.123
+"Bahamas, The",1995,1730.824
+Bosnia and Herzegovina,1995,3542.322
+Belarus,1995,62118.98
+Belize,1995,377.701
+Bermuda,1995,465.709
+Bolivia,1995,9424.19
+Brazil,1995,275564.049
+Barbados,1995,828.742
+Brunei Darussalam,1995,5515.168
+Bhutan,1995,249.356
+Botswana,1995,3523.987
+Central African Republic,1995,234.688
+Canada,1995,459790.462
+Switzerland,1995,39387.247
+Channel Islands,1995,
+Chile,1995,43611.631
+China,1995,3320285.15
+Cote d'Ivoire,1995,7132.315
+Cameroon,1995,4363.73
+"Congo, Rep.",1995,1565.809
+Cook Islands,1995,22.002
+Colombia,1995,59610.752
+Comoros,1995,80.674
+Cape Verde,1995,113.677
+Costa Rica,1995,4866.109
+Cuba,1995,25657.999
+Curacao,1995,
+Cayman Islands,1995,289.693
+Cyprus,1995,5716.853
+Czech Republic,1995,129470.769
+Germany,1995,901524.616
+Djibouti,1995,429.039
+Dominica,1995,80.674
+Denmark,1995,55298.36
+Dominican Republic,1995,16105.464
+Algeria,1995,94692.941
+East Asia & Pacific,1995,4222032.11958068
+Europe & Central Asia,1995,3001413.43266578
+Ecuador,1995,22812.407
+"Egypt, Arab Rep.",1995,95723.368
+Euro area,1995,2647915.031
+Eritrea,1995,297.027
+Spain,1995,257229.049
+Estonia,1995,16754.523
+Ethiopia,1995,2152.529
+Finland,1995,52328.09
+Fiji,1995,887.414
+France,1995,393289.417
+Faeroe Islands,1995,634.391
+"Micronesia, Fed. Sts.",1995,
+Gabon,1995,3857.684
+United Kingdom,1995,564523.649
+Georgia,1995,2302.876
+Ghana,1995,5427.16
+Gibraltar,1995,348.365
+Guinea,1995,1250.447
+"Gambia, The",1995,216.353
+Guinea-Bissau,1995,282.359
+Equatorial Guinea,1995,132.012
+Greece,1995,79185.198
+Grenada,1995,172.349
+Greenland,1995,506.046
+Guatemala,1995,7165.318
+Guam,1995,
+Guyana,1995,1481.468
+High income,1995,12327909.9118634
+"Hong Kong SAR, China",1995,31620.541
+Honduras,1995,3879.686
+Croatia,1995,17612.601
+Haiti,1995,942.419
+Hungary,1995,60054.459
+Indonesia,1995,224941.114
+Isle of Man,1995,
+India,1995,920046.633
+Ireland,1995,32892.99
+"Iran, Islamic Rep.",1995,284918.566
+Iraq,1995,77901.748
+Iceland,1995,1939.843
+Israel,1995,54234.93
+Italy,1995,437623.447
+Jamaica,1995,9702.882
+Jordan,1995,13556.899
+Japan,1995,1184088.968
+Kazakhstan,1995,166731.156
+Kenya,1995,7554.02
+Kyrgyz Republic,1995,4473.74
+Cambodia,1995,1437.464
+Kiribati,1995,22.002
+St. Kitts and Nevis,1995,95.342
+"Korea, Rep.",1995,370781.371
+Kosovo,1995,
+Kuwait,1995,50329.575
+Latin America & Caribbean,1995,1129491.005
+Lao PDR,1995,315.362
+Lebanon,1995,13619.238
+Liberia,1995,333.697
+Libya,1995,45841.167
+St. Lucia,1995,311.695
+Low income,1995,346829.072507867
+Liechtenstein,1995,
+Sri Lanka,1995,5797.527
+Lower middle income,1995,2321252.53241122
+Low & middle income,1995,10597246.2159847
+Lesotho,1995,
+Lithuania,1995,16204.473
+Luxembourg,1995,8349.759
+Latvia,1995,9636.876
+"Macao SAR, China",1995,1243.113
+St. Martin (French part),1995,
+Morocco,1995,30373.761
+Monaco,1995,
+Moldova,1995,11191.684
+Madagascar,1995,1312.786
+Maldives,1995,275.025
+Mexico,1995,345178.377
+Marshall Islands,1995,66.006
+Middle income,1995,10250867.0677536
+"Macedonia, FYR",1995,10839.652
+Mali,1995,469.376
+Malta,1995,2695.245
+Myanmar,1995,6959.966
+Middle East & North Africa,1995,736006.071175434
+Montenegro,1995,
+Mongolia,1995,7924.387
+Northern Mariana Islands,1995,
+Mozambique,1995,1111.101
+Mauritania,1995,2984.938
+Mauritius,1995,1829.833
+Malawi,1995,729.733
+Malaysia,1995,121132.011
+Mayotte,1995,
+Namibia,1995,1741.825
+New Caledonia,1995,1730.824
+Niger,1995,920.417
+Nigeria,1995,34917.174
+Nicaragua,1995,2838.258
+Niue,1995,3.667
+Netherlands,1995,176309.36
+Norway,1995,32999.333
+Nepal,1995,2035.185
+Nauru,1995,139.346
+New Zealand,1995,26904.779
+Oman,1995,15933.115
+Pakistan,1995,84484.013
+Panama,1995,3472.649
+Peru,1995,23883.171
+Philippines,1995,63105.403
+Palau,1995,113.677
+Papua New Guinea,1995,2038.852
+Poland,1995,346813.859
+Puerto Rico,1995,
+"Korea, Dem. Rep.",1995,259348.575
+Portugal,1995,52394.096
+Paraguay,1995,3964.027
+French Polynesia,1995,583.053
+Qatar,1995,30824.802
+Romania,1995,128524.683
+Russian Federation,1995,1692364.504
+Rwanda,1995,612.389
+South Asia,1995,1036972.595
+Saudi Arabia,1995,234856.682
+Sudan,1995,4602.085
+Senegal,1995,3494.651
+Singapore,1995,47109.949
+Small island developing states,1995,183093.509152542
+Solomon Islands,1995,161.348
+Sierra Leone,1995,586.72
+El Salvador,1995,5280.48
+San Marino,1995,
+Somalia,1995,11.001
+Serbia,1995,
+Sub-Saharan Africa,1995,490805.665205607
+Sao Tome and Principe,1995,77.007
+Suriname,1995,2181.865
+Slovak Republic,1995,43508.955
+Slovenia,1995,14513.986
+Sweden,1995,53560.202
+Swaziland,1995,454.708
+Sint Maarten (Dutch part),1995,
+Seychelles,1995,190.684
+Syrian Arab Republic,1995,51558.02
+Turks and Caicos Islands,1995,11.001
+Chad,1995,102.676
+Togo,1995,953.42
+Thailand,1995,181461.495
+Tajikistan,1995,2449.556
+Turkmenistan,1995,34620.147
+Timor-Leste,1995,
+Tonga,1995,110.01
+Trinidad and Tobago,1995,20967.906
+Tunisia,1995,15735.097
+Turkey,1995,176705.396
+Tuvalu,1995,
+Tanzania,1995,3553.323
+Uganda,1995,957.087
+Ukraine,1995,445943.87
+Upper middle income,1995,7929610.83661834
+Uruguay,1995,4591.084
+United States,1995,5237968.469
+Uzbekistan,1995,100912.173
+St. Vincent and the Grenadines,1995,132.012
+"Venezuela, RB",1995,133236.778
+Virgin Islands (U.S.),1995,
+Vietnam,1995,29247.992
+Vanuatu,1995,66.006
+West Bank and Gaza,1995,
+World,1995,23401968.0
+Samoa,1995,132.012
+"Yemen, Rep.",1995,11250.356
+South Africa,1995,353458.463
+"Congo, Dem. Rep.",1995,2966.603
+Zambia,1995,2170.864
+Zimbabwe,1995,15130.042
+Aruba,1996,1811.498
+Andorra,1996,425.372
+Afghanistan,1996,1199.109
+Angola,1996,10491.287
+Albania,1996,2016.85
+United Arab Emirates,1996,41059.399
+Argentina,1996,129217.746
+Armenia,1996,2607.237
+American Samoa,1996,
+Antigua and Barbuda,1996,322.696
+Australia,1996,329259.93
+Austria,1996,61055.55
+Azerbaijan,1996,31565.536
+Burundi,1996,330.03
+Belgium,1996,119624.874
+Benin,1996,1265.115
+Burkina Faso,1996,707.731
+Bangladesh,1996,24029.851
+Bulgaria,1996,56691.82
+Bahrain,1996,15621.42
+"Bahamas, The",1996,1730.824
+Bosnia and Herzegovina,1996,5368.488
+Belarus,1996,60157.135
+Belize,1996,308.028
+Bermuda,1996,476.71
+Bolivia,1996,8734.794
+Brazil,1996,301244.05
+Barbados,1996,850.744
+Brunei Darussalam,1996,5595.842
+Bhutan,1996,304.361
+Botswana,1996,3138.952
+Central African Republic,1996,234.688
+Canada,1996,467883.531
+Switzerland,1996,40025.305
+Channel Islands,1996,
+Chile,1996,49526.502
+China,1996,3463089.131
+Cote d'Ivoire,1996,8379.095
+Cameroon,1996,4602.085
+"Congo, Rep.",1996,1716.156
+Cook Islands,1996,22.002
+Colombia,1996,60523.835
+Comoros,1996,66.006
+Cape Verde,1996,139.346
+Costa Rica,1996,4748.765
+Cuba,1996,26959.784
+Curacao,1996,
+Cayman Islands,1996,286.026
+Cyprus,1996,5936.873
+Czech Republic,1996,132558.383
+Germany,1996,924014.327
+Djibouti,1996,436.373
+Dominica,1996,73.34
+Denmark,1996,68704.912
+Dominican Republic,1996,17546.595
+Algeria,1996,96566.778
+East Asia & Pacific,1996,4424809.18193978
+Europe & Central Asia,1996,2929376.06845129
+Ecuador,1996,23890.505
+"Egypt, Arab Rep.",1996,102030.608
+Euro area,1996,2703605.76
+Eritrea,1996,348.365
+Spain,1996,254328.452
+Estonia,1996,18808.043
+Ethiopia,1996,3729.339
+Finland,1996,61385.58
+Fiji,1996,920.417
+France,1996,408126.099
+Faeroe Islands,1996,652.726
+"Micronesia, Fed. Sts.",1996,
+Gabon,1996,3534.988
+United Kingdom,1996,580680.451
+Georgia,1996,4066.703
+Ghana,1996,5757.19
+Gibraltar,1996,194.351
+Guinea,1996,1272.449
+"Gambia, The",1996,216.353
+Guinea-Bissau,1996,286.026
+Equatorial Guinea,1996,117.344
+Greece,1996,80395.308
+Grenada,1996,176.016
+Greenland,1996,517.047
+Guatemala,1996,6651.938
+Guam,1996,
+Guyana,1996,1529.139
+High income,1996,12637718.6326749
+"Hong Kong SAR, China",1996,29365.336
+Honduras,1996,3960.36
+Croatia,1996,18518.35
+Haiti,1996,1092.766
+Hungary,1996,62702.033
+Indonesia,1996,253290.691
+Isle of Man,1996,
+India,1996,1002224.103
+Ireland,1996,35008.849
+"Iran, Islamic Rep.",1996,286645.723
+Iraq,1996,69500.651
+Iceland,1996,2211.201
+Israel,1996,54399.945
+Italy,1996,428294.599
+Jamaica,1996,10197.927
+Jordan,1996,14187.623
+Japan,1996,1205782.94
+Kazakhstan,1996,140691.789
+Kenya,1996,9328.848
+Kyrgyz Republic,1996,5588.508
+Cambodia,1996,1628.148
+Kiribati,1996,36.67
+St. Kitts and Nevis,1996,102.676
+"Korea, Rep.",1996,401030.454
+Kosovo,1996,
+Kuwait,1996,47674.667
+Latin America & Caribbean,1996,1173293.32
+Lao PDR,1996,535.382
+Lebanon,1996,13798.921
+Liberia,1996,344.698
+Libya,1996,41840.47
+St. Lucia,1996,330.03
+Low income,1996,351782.827869746
+Liechtenstein,1996,
+Sri Lanka,1996,6952.632
+Lower middle income,1996,2424633.51819733
+Low & middle income,1996,10886504.421498
+Lesotho,1996,
+Lithuania,1996,15731.43
+Luxembourg,1996,8437.767
+Latvia,1996,9548.868
+"Macao SAR, China",1996,1415.462
+St. Martin (French part),1996,
+Morocco,1996,31195.169
+Monaco,1996,
+Moldova,1996,11521.714
+Madagascar,1996,1411.795
+Maldives,1996,319.029
+Mexico,1996,354877.592
+Marshall Islands,1996,66.006
+Middle income,1996,10535179.7072834
+"Macedonia, FYR",1996,11741.734
+Mali,1996,487.711
+Malta,1996,2966.603
+Myanmar,1996,7256.993
+Middle East & North Africa,1996,739326.537249281
+Montenegro,1996,
+Mongolia,1996,8041.731
+Northern Mariana Islands,1996,
+Mozambique,1996,1041.428
+Mauritania,1996,2999.606
+Mauritius,1996,1950.844
+Malawi,1996,711.398
+Malaysia,1996,125374.73
+Mayotte,1996,
+Namibia,1996,1906.84
+New Caledonia,1996,1763.827
+Niger,1996,1015.759
+Nigeria,1996,40421.341
+Nicaragua,1996,2926.266
+Niue,1996,3.667
+Netherlands,1996,186356.94
+Norway,1996,33179.016
+Nepal,1996,2486.226
+Nauru,1996,139.346
+New Zealand,1996,29702.7
+Oman,1996,15225.384
+Pakistan,1996,94447.252
+Panama,1996,4880.777
+Peru,1996,24363.548
+Philippines,1996,65642.967
+Palau,1996,117.344
+Papua New Guinea,1996,2163.53
+Poland,1996,358823.284
+Puerto Rico,1996,
+"Korea, Dem. Rep.",1996,256682.666
+Portugal,1996,50886.959
+Paraguay,1996,3751.341
+French Polynesia,1996,557.384
+Qatar,1996,31825.893
+Romania,1996,127835.287
+Russian Federation,1996,1668958.043
+Rwanda,1996,630.724
+South Asia,1996,1131962.563
+Saudi Arabia,1996,258516.166
+Sudan,1996,4268.388
+Senegal,1996,3740.34
+Singapore,1996,55305.694
+Small island developing states,1996,198735.822560484
+Solomon Islands,1996,161.348
+Sierra Leone,1996,623.39
+El Salvador,1996,4895.445
+San Marino,1996,
+Somalia,1996,
+Serbia,1996,
+Sub-Saharan Africa,1996,506057.189791885
+Sao Tome and Principe,1996,77.007
+Suriname,1996,2130.527
+Slovak Republic,1996,42793.89
+Slovenia,1996,15185.047
+Sweden,1996,60549.504
+Swaziland,1996,341.031
+Sint Maarten (Dutch part),1996,
+Seychelles,1996,198.018
+Syrian Arab Republic,1996,51022.638
+Turks and Caicos Islands,1996,11.001
+Chad,1996,106.343
+Togo,1996,1059.763
+Thailand,1996,202711.76
+Tajikistan,1996,2827.257
+Turkmenistan,1996,31363.851
+Timor-Leste,1996,
+Tonga,1996,110.01
+Trinidad and Tobago,1996,21781.98
+Tunisia,1996,16758.19
+Turkey,1996,192499.165
+Tuvalu,1996,
+Tanzania,1996,3461.648
+Uganda,1996,1052.429
+Ukraine,1996,412335.815
+Upper middle income,1996,8110512.54966252
+Uruguay,1996,5441.828
+United States,1996,5343512.063
+Uzbekistan,1996,103189.38
+St. Vincent and the Grenadines,1996,135.679
+"Venezuela, RB",1996,122752.825
+Virgin Islands (U.S.),1996,
+Vietnam,1996,34378.125
+Vanuatu,1996,84.341
+West Bank and Gaza,1996,
+World,1996,23903936.0
+Samoa,1996,132.012
+"Yemen, Rep.",1996,14935.691
+South Africa,1996,358639.934
+"Congo, Dem. Rep.",1996,3248.962
+Zambia,1996,1870.17
+Zimbabwe,1996,14994.363
+Aruba,1997,1851.835
+Andorra,1997,458.375
+Afghanistan,1997,1114.768
+Angola,1997,7381.671
+Albania,1997,1543.807
+United Arab Emirates,1997,41646.119
+Argentina,1997,134677.909
+Armenia,1997,3278.298
+American Samoa,1997,
+Antigua and Barbuda,1997,337.364
+Australia,1997,333623.66
+Austria,1997,61359.911
+Azerbaijan,1997,29966.724
+Burundi,1997,315.362
+Belgium,1997,116295.238
+Benin,1997,1217.444
+Burkina Faso,1997,806.74
+Bangladesh,1997,25063.945
+Bulgaria,1997,53681.213
+Bahrain,1997,17319.241
+"Bahamas, The",1997,1741.825
+Bosnia and Herzegovina,1997,12500.803
+Belarus,1997,59519.077
+Belize,1997,388.702
+Bermuda,1997,476.71
+Bolivia,1997,9842.228
+Brazil,1997,321199.864
+Barbados,1997,902.082
+Brunei Darussalam,1997,5812.195
+Bhutan,1997,396.036
+Botswana,1997,3212.292
+Central African Republic,1997,245.689
+Canada,1997,483233.593
+Switzerland,1997,41580.113
+Channel Islands,1997,
+Chile,1997,57054.853
+China,1997,3469510.048
+Cote d'Ivoire,1997,8173.743
+Cameroon,1997,3215.959
+"Congo, Rep.",1997,2343.213
+Cook Islands,1997,22.002
+Colombia,1997,64905.9
+Comoros,1997,66.006
+Cape Verde,1997,143.013
+Costa Rica,1997,4987.12
+Cuba,1997,24605.57
+Curacao,1997,
+Cayman Islands,1997,286.026
+Cyprus,1997,6109.222
+Czech Republic,1997,130090.492
+Germany,1997,900318.173
+Djibouti,1997,440.04
+Dominica,1997,80.674
+Denmark,1997,57065.854
+Dominican Republic,1997,18239.658
+Algeria,1997,88195.017
+East Asia & Pacific,1997,4464694.63907421
+Europe & Central Asia,1997,2743439.33467356
+Ecuador,1997,18276.328
+"Egypt, Arab Rep.",1997,108202.169
+Euro area,1997,2661160.235
+Eritrea,1997,528.048
+Spain,1997,264460.373
+Estonia,1997,18613.692
+Ethiopia,1997,4275.722
+Finland,1997,60083.795
+Fiji,1997,759.069
+France,1997,379486.829
+Faeroe Islands,1997,656.393
+"Micronesia, Fed. Sts.",1997,
+Gabon,1997,3545.989
+United Kingdom,1997,554215.712
+Georgia,1997,4437.07
+Ghana,1997,6395.248
+Gibraltar,1997,121.011
+Guinea,1997,1279.783
+"Gambia, The",1997,216.353
+Guinea-Bissau,1997,308.028
+Equatorial Guinea,1997,293.36
+Greece,1997,84572.021
+Grenada,1997,205.352
+Greenland,1997,524.381
+Guatemala,1997,7598.024
+Guam,1997,
+Guyana,1997,1602.479
+High income,1997,12744117.4388426
+"Hong Kong SAR, China",1997,30854.138
+Honduras,1997,4158.378
+Croatia,1997,19295.754
+Haiti,1997,1422.796
+Hungary,1997,61807.285
+Indonesia,1997,278658.997
+Isle of Man,1997,
+India,1997,1043939.895
+Ireland,1997,36552.656
+"Iran, Islamic Rep.",1997,290617.084
+Iraq,1997,68308.876
+Iceland,1997,2104.858
+Israel,1997,63402.43
+Italy,1997,432302.63
+Jamaica,1997,10630.633
+Jordan,1997,14418.644
+Japan,1997,1201778.576
+Kazakhstan,1997,129580.779
+Kenya,1997,8265.418
+Kyrgyz Republic,1997,5482.165
+Cambodia,1997,1906.84
+Kiribati,1997,29.336
+St. Kitts and Nevis,1997,102.676
+"Korea, Rep.",1997,423175.467
+Kosovo,1997,
+Kuwait,1997,49361.487
+Latin America & Caribbean,1997,1230476.518
+Lao PDR,1997,718.732
+Lebanon,1997,15647.089
+Liberia,1997,355.699
+Libya,1997,48598.751
+St. Lucia,1997,311.695
+Low income,1997,329805.365328848
+Liechtenstein,1997,
+Sri Lanka,1997,7506.349
+Lower middle income,1997,2447826.5813247
+Low & middle income,1997,10865869.8905659
+Lesotho,1997,
+Lithuania,1997,15339.061
+Luxembourg,1997,7917.053
+Latvia,1997,8437.767
+"Macao SAR, China",1997,1499.803
+St. Martin (French part),1997,
+Morocco,1997,31862.563
+Monaco,1997,
+Moldova,1997,7099.312
+Madagascar,1997,1701.488
+Maldives,1997,366.7
+Mexico,1997,361595.536
+Marshall Islands,1997,66.006
+Middle income,1997,10536502.4505372
+"Macedonia, FYR",1997,10634.3
+Mali,1997,524.381
+Malta,1997,3241.628
+Myanmar,1997,7499.015
+Middle East & North Africa,1997,751419.638
+Montenegro,1997,
+Mongolia,1997,7711.701
+Northern Mariana Islands,1997,
+Mozambique,1997,1125.769
+Mauritania,1997,2999.606
+Mauritius,1997,1998.515
+Malawi,1997,759.069
+Malaysia,1997,124821.013
+Mayotte,1997,
+Namibia,1997,1903.173
+New Caledonia,1997,1826.166
+Niger,1997,1012.092
+Nigeria,1997,40190.32
+Nicaragua,1997,3135.285
+Niue,1997,3.667
+Netherlands,1997,178278.539
+Norway,1997,34132.436
+Nepal,1997,2783.253
+Nauru,1997,139.346
+New Zealand,1997,31063.157
+Oman,1997,15595.751
+Pakistan,1997,94711.276
+Panama,1997,5958.875
+Peru,1997,27407.158
+Philippines,1997,77403.036
+Palau,1997,117.344
+Papua New Guinea,1997,2555.899
+Poland,1997,351049.244
+Puerto Rico,1997,
+"Korea, Dem. Rep.",1997,234688.0
+Portugal,1997,53376.852
+Paraguay,1997,4195.048
+French Polynesia,1997,575.719
+Qatar,1997,36288.632
+Romania,1997,115987.21
+Russian Federation,1997,1577033.687
+Rwanda,1997,652.726
+South Asia,1997,1175882.222
+Saudi Arabia,1997,216826.043
+Sudan,1997,5419.826
+Senegal,1997,3263.63
+Singapore,1997,69240.294
+Small island developing states,1997,213436.828612903
+Solomon Islands,1997,161.348
+Sierra Leone,1997,634.391
+El Salvador,1997,5760.857
+San Marino,1997,
+Somalia,1997,
+Serbia,1997,
+Sub-Saharan Africa,1997,516327.116330597
+Sao Tome and Principe,1997,77.007
+Suriname,1997,2141.528
+Slovak Republic,1997,41983.483
+Slovenia,1997,16208.14
+Sweden,1997,54513.622
+Swaziland,1997,1202.776
+Sint Maarten (Dutch part),1997,
+Seychelles,1997,414.371
+Syrian Arab Republic,1997,52295.087
+Turks and Caicos Islands,1997,11.001
+Chad,1997,113.677
+Togo,1997,986.423
+Thailand,1997,210064.095
+Tajikistan,1997,2152.529
+Turkmenistan,1997,29930.054
+Timor-Leste,1997,
+Tonga,1997,113.677
+Trinidad and Tobago,1997,19229.748
+Tunisia,1997,16945.207
+Turkey,1997,202887.776
+Tuvalu,1997,
+Tanzania,1997,2882.262
+Uganda,1997,1133.103
+Ukraine,1997,341196.015
+Upper middle income,1997,8088624.71390721
+Uruguay,1997,5555.505
+United States,1997,5501365.412
+Uzbekistan,1997,101781.252
+St. Vincent and the Grenadines,1997,135.679
+"Venezuela, RB",1997,133962.844
+Virgin Islands (U.S.),1997,
+Vietnam,1997,45283.783
+Vanuatu,1997,88.008
+West Bank and Gaza,1997,414.371
+World,1997,24361936.0
+Samoa,1997,132.012
+"Yemen, Rep.",1997,15474.74
+South Africa,1997,371327.754
+"Congo, Dem. Rep.",1997,2926.266
+Zambia,1997,2390.884
+Zimbabwe,1997,14407.643
+Aruba,1998,1668.485
+Andorra,1998,484.044
+Afghanistan,1998,1056.096
+Angola,1998,7308.331
+Albania,1998,1752.826
+United Arab Emirates,1998,81495.408
+Argentina,1998,137673.848
+Armenia,1998,3406.643
+American Samoa,1998,
+Antigua and Barbuda,1998,333.697
+Australia,1998,346912.868
+Austria,1998,63549.11
+Azerbaijan,1998,31594.872
+Burundi,1998,300.694
+Belgium,1998,119184.834
+Benin,1998,1213.777
+Burkina Faso,1998,861.745
+Bangladesh,1998,24040.852
+Bulgaria,1998,50993.302
+Bahrain,1998,18404.673
+"Bahamas, The",1998,1793.163
+Bosnia and Herzegovina,1998,16226.475
+Belarus,1998,57597.569
+Belize,1998,370.367
+Bermuda,1998,462.042
+Bolivia,1998,10326.272
+Brazil,1998,314012.544
+Barbados,1998,1140.437
+Brunei Darussalam,1998,5984.544
+Bhutan,1998,385.035
+Botswana,1998,3832.015
+Central African Republic,1998,249.356
+Canada,1998,478880.864
+Switzerland,1998,41913.81
+Channel Islands,1998,
+Chile,1998,58987.362
+China,1998,3324344.519
+Cote d'Ivoire,1998,6912.295
+Cameroon,1998,3208.625
+"Congo, Rep.",1998,777.404
+Cook Islands,1998,22.002
+Colombia,1998,65976.664
+Comoros,1998,73.34
+Cape Verde,1998,154.014
+Costa Rica,1998,5317.15
+Cuba,1998,24444.222
+Curacao,1998,
+Cayman Islands,1998,286.026
+Cyprus,1998,6640.937
+Czech Republic,1998,125525.077
+Germany,1998,895532.738
+Djibouti,1998,410.704
+Dominica,1998,77.007
+Denmark,1998,56068.43
+Dominican Republic,1998,18683.365
+Algeria,1998,107080.067
+East Asia & Pacific,1998,4048977.4459849
+Europe & Central Asia,1998,2665719.9830227
+Ecuador,1998,22229.354
+"Egypt, Arab Rep.",1998,122243.112
+Euro area,1998,2712190.207
+Eritrea,1998,590.387
+Spain,1998,274683.969
+Estonia,1998,17143.225
+Ethiopia,1998,5027.457
+Finland,1998,56988.847
+Fiji,1998,729.733
+France,1998,409094.187
+Faeroe Islands,1998,663.727
+"Micronesia, Fed. Sts.",1998,
+Gabon,1998,1631.815
+United Kingdom,1998,554138.705
+Georgia,1998,4961.451
+Ghana,1998,6409.916
+Gibraltar,1998,311.695
+Guinea,1998,1243.113
+"Gambia, The",1998,234.688
+Guinea-Bissau,1998,216.353
+Equatorial Guinea,1998,168.682
+Greece,1998,87809.982
+Grenada,1998,190.684
+Greenland,1998,531.715
+Guatemala,1998,8753.129
+Guam,1998,
+Guyana,1998,1653.817
+High income,1998,12658000.4687839
+"Hong Kong SAR, China",1998,39233.233
+Honduras,1998,4649.756
+Croatia,1998,20417.856
+Haiti,1998,1232.112
+Hungary,1998,60853.865
+Indonesia,1998,210210.775
+Isle of Man,1998,
+India,1998,1071911.771
+Ireland,1998,38140.467
+"Iran, Islamic Rep.",1998,316176.074
+Iraq,1998,72371.912
+Iceland,1998,2101.191
+Israel,1998,62779.04
+Italy,1998,441752.489
+Jamaica,1998,9728.551
+Jordan,1998,14543.322
+Japan,1998,1159186.371
+Kazakhstan,1998,125063.035
+Kenya,1998,10036.579
+Kyrgyz Republic,1998,5823.196
+Cambodia,1998,2233.203
+Kiribati,1998,33.003
+St. Kitts and Nevis,1998,102.676
+"Korea, Rep.",1998,363839.74
+Kosovo,1998,
+Kuwait,1998,51088.644
+Latin America & Caribbean,1998,1280047.024
+Lao PDR,1998,894.748
+Lebanon,1998,16178.804
+Liberia,1998,388.702
+Libya,1998,48133.042
+St. Lucia,1998,308.028
+Low income,1998,161532.143103057
+Liechtenstein,1998,
+Sri Lanka,1998,7763.039
+Lower middle income,1998,2433867.5755438
+Low & middle income,1998,10519935.0568909
+Lesotho,1998,
+Lithuania,1998,16197.139
+Luxembourg,1998,7356.002
+Latvia,1998,7990.393
+"Macao SAR, China",1998,1565.809
+St. Martin (French part),1998,
+Morocco,1998,32038.579
+Monaco,1998,
+Moldova,1998,6270.57
+Madagascar,1998,1738.158
+Maldives,1998,333.697
+Mexico,1998,372167.497
+Marshall Islands,1998,69.673
+Middle income,1998,10358677.6501788
+"Macedonia, FYR",1998,12625.481
+Mali,1998,517.047
+Malta,1998,2145.195
+Myanmar,1998,8078.401
+Middle East & North Africa,1998,822695.117
+Montenegro,1998,
+Mongolia,1998,7708.034
+Northern Mariana Islands,1998,
+Mozambique,1998,1133.103
+Mauritania,1998,1111.101
+Mauritius,1998,2196.533
+Malawi,1998,828.742
+Malaysia,1998,114186.713
+Mayotte,1998,
+Namibia,1998,1994.848
+New Caledonia,1998,1804.164
+Niger,1998,1074.431
+Nigeria,1998,40182.986
+Nicaragua,1998,3421.311
+Niue,1998,3.667
+Netherlands,1998,175359.607
+Norway,1998,34594.478
+Nepal,1998,2251.538
+Nauru,1998,139.346
+New Zealand,1998,30058.399
+Oman,1998,16666.515
+Pakistan,1998,97663.211
+Panama,1998,5947.874
+Peru,1998,27806.861
+Philippines,1998,75650.21
+Palau,1998,117.344
+Papua New Guinea,1998,2838.258
+Poland,1998,326935.052
+Puerto Rico,1998,
+"Korea, Dem. Rep.",1998,64927.902
+Portugal,1998,58055.944
+Paraguay,1998,4503.076
+French Polynesia,1998,572.052
+Qatar,1998,32401.612
+Romania,1998,103680.758
+Russian Federation,1998,1511269.709
+Rwanda,1998,641.725
+South Asia,1998,1205405.239
+Saudi Arabia,1998,207288.176
+Sudan,1998,4697.427
+Senegal,1998,3428.645
+Singapore,1998,57293.208
+Small island developing states,1998,190483.407321768
+Solomon Islands,1998,161.348
+Sierra Leone,1998,594.054
+El Salvador,1998,5812.195
+San Marino,1998,
+Somalia,1998,
+Serbia,1998,
+Sub-Saharan Africa,1998,513001.12356887
+Sao Tome and Principe,1998,80.674
+Suriname,1998,2163.53
+Slovak Republic,1998,43230.263
+Slovenia,1998,15522.411
+Sweden,1998,54953.662
+Swaziland,1998,1213.777
+Sint Maarten (Dutch part),1998,
+Seychelles,1998,440.04
+Syrian Arab Republic,1998,62709.367
+Turks and Caicos Islands,1998,14.668
+Chad,1998,113.677
+Togo,1998,1166.106
+Thailand,1998,186503.62
+Tajikistan,1998,2497.227
+Turkmenistan,1998,26046.701
+Timor-Leste,1998,
+Tonga,1998,110.01
+Trinidad and Tobago,1998,19317.756
+Tunisia,1998,18001.303
+Turkey,1998,205421.673
+Tuvalu,1998,
+Tanzania,1998,2555.899
+Uganda,1998,1338.455
+Ukraine,1998,328636.54
+Upper middle income,1998,7924734.2150523
+Uruguay,1998,5687.517
+United States,1998,5449077.659
+Uzbekistan,1998,117571.354
+St. Vincent and the Grenadines,1998,165.015
+"Venezuela, RB",1998,167321.543
+Virgin Islands (U.S.),1998,
+Vietnam,1998,47781.01
+Vanuatu,1998,84.341
+West Bank and Gaza,1998,608.722
+World,1998,24292320.0
+Samoa,1998,132.012
+"Yemen, Rep.",1998,12200.109
+South Africa,1998,372218.835
+"Congo, Dem. Rep.",1998,2533.897
+Zambia,1998,2313.877
+Zimbabwe,1998,14253.629
+Aruba,1999,1686.82
+Andorra,1999,513.38
+Afghanistan,1999,832.409
+Angola,1999,9156.499
+Albania,1999,2992.272
+United Arab Emirates,1999,78374.791
+Argentina,1999,145488.225
+Armenia,1999,3058.278
+American Samoa,1999,
+Antigua and Barbuda,1999,348.365
+Australia,1999,325523.257
+Austria,1999,61755.947
+Azerbaijan,1999,29299.33
+Burundi,1999,293.36
+Belgium,1999,115844.197
+Benin,1999,1562.142
+Burkina Faso,1999,931.418
+Bangladesh,1999,25232.627
+Bulgaria,1999,43981.998
+Bahrain,1999,18019.638
+"Bahamas, The",1999,1796.83
+Bosnia and Herzegovina,1999,18771.373
+Belarus,1999,55819.074
+Belize,1999,601.388
+Bermuda,1999,495.045
+Bolivia,1999,9768.888
+Brazil,1999,322068.943
+Barbados,1999,1210.11
+Brunei Darussalam,1999,4598.418
+Bhutan,1999,385.035
+Botswana,1999,3545.989
+Central African Republic,1999,264.024
+Canada,1999,477868.772
+Switzerland,1999,40700.033
+Channel Islands,1999,
+Chile,1999,62225.323
+China,1999,3318055.614
+Cote d'Ivoire,1999,6266.903
+Cameroon,1999,3080.28
+"Congo, Rep.",1999,821.408
+Cook Islands,1999,29.336
+Colombia,1999,56512.137
+Comoros,1999,80.674
+Cape Verde,1999,172.349
+Costa Rica,1999,5522.502
+Cuba,1999,25276.631
+Curacao,1999,
+Cayman Islands,1999,282.359
+Cyprus,1999,6754.614
+Czech Republic,1999,111931.508
+Germany,1999,824466.278
+Djibouti,1999,443.707
+Dominica,1999,80.674
+Denmark,1999,50930.963
+Dominican Republic,1999,18870.382
+Algeria,1999,92118.707
+East Asia & Pacific,1999,4078685.15883721
+Europe & Central Asia,1999,2654211.36225569
+Ecuador,1999,21272.267
+"Egypt, Arab Rep.",1999,125393.065
+Euro area,1999,2589925.093
+Eritrea,1999,619.723
+Spain,1999,282384.669
+Estonia,1999,15474.74
+Ethiopia,1999,5075.128
+Finland,1999,55423.038
+Fiji,1999,832.409
+France,1999,371309.419
+Faeroe Islands,1999,671.061
+"Micronesia, Fed. Sts.",1999,55.005
+Gabon,1999,1437.464
+United Kingdom,1999,535550.682
+Georgia,1999,4345.395
+Ghana,1999,6560.263
+Gibraltar,1999,322.696
+Guinea,1999,1272.449
+"Gambia, The",1999,256.69
+Guinea-Bissau,1999,245.689
+Equatorial Guinea,1999,473.043
+Greece,1999,86636.542
+Grenada,1999,205.352
+Greenland,1999,542.716
+Guatemala,1999,8929.145
+Guam,1999,
+Guyana,1999,1650.15
+High income,1999,12631659.8015618
+"Hong Kong SAR, China",1999,42753.553
+Honduras,1999,4741.431
+Croatia,1999,20491.196
+Haiti,1999,1331.121
+Hungary,1999,60362.487
+Indonesia,1999,237595.931
+Isle of Man,1999,
+India,1999,1144390.026
+Ireland,1999,40098.645
+"Iran, Islamic Rep.",1999,316671.119
+Iraq,1999,72283.904
+Iceland,1999,2068.188
+Israel,1999,62155.65
+Italy,1999,437018.392
+Jamaica,1999,9772.555
+Jordan,1999,14568.991
+Japan,1999,1197880.555
+Kazakhstan,1999,116493.256
+Kenya,1999,10172.258
+Kyrgyz Republic,1999,4561.748
+Cambodia,1999,2196.533
+Kiribati,1999,29.336
+St. Kitts and Nevis,1999,102.676
+"Korea, Rep.",1999,395005.573
+Kosovo,1999,
+Kuwait,1999,53314.513
+Latin America & Caribbean,1999,1306420.088
+Lao PDR,1999,902.082
+Lebanon,1999,16600.509
+Liberia,1999,407.037
+Libya,1999,47230.96
+St. Lucia,1999,319.029
+Low income,1999,172432.611471735
+Liechtenstein,1999,
+Sri Lanka,1999,8536.776
+Lower middle income,1999,2559061.72023685
+Low & middle income,1999,10643991.0248059
+Lesotho,1999,
+Lithuania,1999,13692.578
+Luxembourg,1999,7686.032
+Latvia,1999,6743.613
+"Macao SAR, China",1999,1532.806
+St. Martin (French part),1999,
+Morocco,1999,33153.347
+Monaco,1999,
+Moldova,1999,4503.076
+Madagascar,1999,1925.175
+Maldives,1999,465.709
+Mexico,1999,380814.283
+Marshall Islands,1999,66.006
+Middle income,1999,10471844.8990029
+"Macedonia, FYR",1999,11723.399
+Mali,1999,539.049
+Malta,1999,2346.88
+Myanmar,1999,8830.136
+Middle East & North Africa,1999,816263.199
+Montenegro,1999,
+Mongolia,1999,7554.02
+Northern Mariana Islands,1999,
+Mozambique,1999,1188.108
+Mauritania,1999,1199.109
+Mauritius,1999,2467.891
+Malawi,1999,997.424
+Malaysia,1999,107934.478
+Mayotte,1999,
+Namibia,1999,1771.161
+New Caledonia,1999,2035.185
+Niger,1999,1059.763
+Nigeria,1999,44788.738
+Nicaragua,1999,3626.663
+Niue,1999,3.667
+Netherlands,1999,163027.486
+Norway,1999,41022.729
+Nepal,1999,3219.626
+Nauru,1999,135.679
+New Zealand,1999,31558.202
+Oman,1999,20817.559
+Pakistan,1999,100384.125
+Panama,1999,5669.182
+Peru,1999,29358.002
+Philippines,1999,73020.971
+Palau,1999,117.344
+Papua New Guinea,1999,2464.224
+Poland,1999,317133.161
+Puerto Rico,1999,
+"Korea, Dem. Rep.",1999,71396.49
+Portugal,1999,64689.547
+Paraguay,1999,4503.076
+French Polynesia,1999,575.719
+Qatar,1999,31407.855
+Romania,1999,89639.815
+Russian Federation,1999,1534250.798
+Rwanda,1999,671.061
+South Asia,1999,1283446.333
+Saudi Arabia,1999,227229.322
+Sudan,1999,5093.463
+Senegal,1999,3700.003
+Singapore,1999,50263.569
+Small island developing states,1999,190917.100105962
+Solomon Islands,1999,165.015
+Sierra Leone,1999,583.053
+El Salvador,1999,5698.518
+San Marino,1999,
+Somalia,1999,
+Serbia,1999,
+Sub-Saharan Africa,1999,520580.691518096
+Sao Tome and Principe,1999,88.008
+Suriname,1999,2152.529
+Slovak Republic,1999,39863.957
+Slovenia,1999,15144.71
+Sweden,1999,51106.979
+Swaziland,1999,1239.446
+Sint Maarten (Dutch part),1999,
+Seychelles,1999,513.38
+Syrian Arab Republic,1999,64913.234
+Turks and Caicos Islands,1999,14.668
+Chad,1999,121.011
+Togo,1999,1536.473
+Thailand,1999,196947.236
+Tajikistan,1999,2519.229
+Turkmenistan,1999,35115.192
+Timor-Leste,1999,
+Tonga,1999,128.345
+Trinidad and Tobago,1999,22816.074
+Tunisia,1999,18331.333
+Turkey,1999,196767.553
+Tuvalu,1999,
+Tanzania,1999,2537.564
+Uganda,1999,1393.46
+Ukraine,1999,332549.229
+Upper middle income,1999,7912614.32211727
+Uruguay,1999,6725.278
+United States,1999,5528149.18
+Uzbekistan,1999,117421.007
+St. Vincent and the Grenadines,1999,168.682
+"Venezuela, RB",1999,172616.691
+Virgin Islands (U.S.),1999,
+Vietnam,1999,48026.699
+Vanuatu,1999,84.341
+West Bank and Gaza,1999,660.06
+World,1999,24076144.0
+Samoa,1999,139.346
+"Yemen, Rep.",1999,13894.263
+South Africa,1999,371034.394
+"Congo, Dem. Rep.",1999,2247.871
+Zambia,1999,1807.831
+Zimbabwe,1999,15834.106
+Aruba,2000,2233.203
+Andorra,2000,524.381
+Afghanistan,2000,781.071
+Angola,2000,9541.534
+Albania,2000,3028.942
+United Arab Emirates,2000,112562.232
+Argentina,2000,141076.824
+Armenia,2000,3465.315
+American Samoa,2000,
+Antigua and Barbuda,2000,344.698
+Australia,2000,329604.628
+Austria,2000,61788.95
+Azerbaijan,2000,30546.11
+Burundi,2000,300.694
+Belgium,2000,115712.185
+Benin,2000,1617.147
+Burkina Faso,2000,1041.428
+Bangladesh,2000,27865.533
+Bulgaria,2000,43530.957
+Bahrain,2000,18643.028
+"Bahamas, The",2000,1796.83
+Bosnia and Herzegovina,2000,23252.447
+Belarus,2000,53468.527
+Belize,2000,689.396
+Bermuda,2000,495.045
+Bolivia,2000,9519.532
+Brazil,2000,330125.342
+Barbados,2000,1188.108
+Brunei Darussalam,2000,6527.26
+Bhutan,2000,399.703
+Botswana,2000,4275.722
+Central African Republic,2000,267.691
+Canada,2000,537402.517
+Switzerland,2000,39093.887
+Channel Islands,2000,
+Chile,2000,60094.796
+China,2000,3405179.867
+Cote d'Ivoire,2000,6791.284
+Cameroon,2000,3432.312
+"Congo, Rep.",2000,1048.762
+Cook Islands,2000,29.336
+Colombia,2000,57923.932
+Comoros,2000,84.341
+Cape Verde,2000,187.017
+Costa Rica,2000,5474.831
+Cuba,2000,26039.367
+Curacao,2000,
+Cayman Islands,2000,454.708
+Cyprus,2000,6849.956
+Czech Republic,2000,124648.664
+Germany,2000,832100.972
+Djibouti,2000,403.37
+Dominica,2000,102.676
+Denmark,2000,47252.962
+Dominican Republic,2000,20117.162
+Algeria,2000,87930.993
+East Asia & Pacific,2000,4227383.15170255
+Europe & Central Asia,2000,2696711.29308686
+Ecuador,2000,20942.237
+"Egypt, Arab Rep.",2000,141326.18
+Euro area,2000,2612638.491
+Eritrea,2000,608.722
+Spain,2000,294441.765
+Estonia,2000,15559.081
+Ethiopia,2000,5830.53
+Finland,2000,52141.073
+Fiji,2000,861.745
+France,2000,365559.563
+Faeroe Islands,2000,656.393
+"Micronesia, Fed. Sts.",2000,55.005
+Gabon,2000,1052.429
+United Kingdom,2000,543662.086
+Georgia,2000,4536.079
+Ghana,2000,6299.906
+Gibraltar,2000,333.697
+Guinea,2000,1279.783
+"Gambia, The",2000,275.025
+Guinea-Bissau,2000,198.018
+Equatorial Guinea,2000,454.708
+Greece,2000,91616.328
+Grenada,2000,205.352
+Greenland,2000,531.715
+Guatemala,2000,9915.568
+Guam,2000,
+Guyana,2000,1580.477
+High income,2000,12883981.2745903
+"Hong Kong SAR, China",2000,40582.689
+Honduras,2000,5031.124
+Croatia,2000,19644.119
+Haiti,2000,1367.791
+Hungary,2000,57256.538
+Indonesia,2000,258120.13
+Isle of Man,2000,
+India,2000,1186663.202
+Ireland,2000,40949.389
+"Iran, Islamic Rep.",2000,339241.504
+Iraq,2000,72445.252
+Iceland,2000,2163.53
+Israel,2000,62691.032
+Italy,2000,446156.556
+Jamaica,2000,10318.938
+Jordan,2000,15507.743
+Japan,2000,1219592.862
+Kazakhstan,2000,127769.281
+Kenya,2000,10417.947
+Kyrgyz Republic,2000,4528.745
+Cambodia,2000,2255.205
+Kiribati,2000,33.003
+St. Kitts and Nevis,2000,102.676
+"Korea, Rep.",2000,432460.311
+Kosovo,2000,
+Kuwait,2000,59112.04
+Latin America & Caribbean,2000,1293515.915
+Lao PDR,2000,1059.763
+Lebanon,2000,15353.729
+Liberia,2000,436.373
+Libya,2000,49753.856
+St. Lucia,2000,330.03
+Low income,2000,179033.941
+Liechtenstein,2000,
+Sri Lanka,2000,10161.257
+Lower middle income,2000,2685574.87877607
+Low & middle income,2000,10946584.6146319
+Lesotho,2000,
+Lithuania,2000,12200.109
+Luxembourg,2000,8236.082
+Latvia,2000,6171.561
+"Macao SAR, China",2000,1635.482
+St. Martin (French part),2000,
+Morocco,2000,33905.082
+Monaco,2000,
+Moldova,2000,3512.986
+Madagascar,2000,1873.837
+Maldives,2000,498.712
+Mexico,2000,383021.817
+Marshall Islands,2000,77.007
+Middle income,2000,10767846.9200962
+"Macedonia, FYR",2000,12064.43
+Mali,2000,542.716
+Malta,2000,2064.521
+Myanmar,2000,8888.808
+Middle East & North Africa,2000,854818.037
+Montenegro,2000,
+Mongolia,2000,7506.349
+Northern Mariana Islands,2000,
+Mozambique,2000,1349.456
+Mauritania,2000,1195.442
+Mauritius,2000,2768.585
+Malawi,2000,905.749
+Malaysia,2000,126603.175
+Mayotte,2000,
+Namibia,2000,1763.827
+New Caledonia,2000,2299.209
+Niger,2000,795.739
+Nigeria,2000,79181.531
+Nicaragua,2000,3667.0
+Niue,2000,3.667
+Netherlands,2000,165363.365
+Norway,2000,38807.861
+Nepal,2000,3234.294
+Nauru,2000,135.679
+New Zealand,2000,32698.639
+Oman,2000,22057.005
+Pakistan,2000,106449.343
+Panama,2000,5790.193
+Peru,2000,30296.754
+Philippines,2000,79111.858
+Palau,2000,117.344
+Papua New Guinea,2000,2687.911
+Poland,2000,301691.424
+Puerto Rico,2000,
+"Korea, Dem. Rep.",2000,76966.663
+Portugal,2000,62966.057
+Paraguay,2000,3689.002
+French Polynesia,2000,645.392
+Qatar,2000,34730.157
+Romania,2000,89984.513
+Russian Federation,2000,1553451.21
+Rwanda,2000,685.729
+South Asia,2000,1336053.115
+Saudi Arabia,2000,297749.399
+Sudan,2000,5533.503
+Senegal,2000,3938.358
+Singapore,2000,47623.329
+Small island developing states,2000,199274.191189233
+Solomon Islands,2000,165.015
+Sierra Leone,2000,630.724
+El Salvador,2000,5742.522
+San Marino,2000,
+Somalia,2000,517.047
+Serbia,2000,
+Sub-Saharan Africa,2000,553951.485560763
+Sao Tome and Principe,2000,88.008
+Suriname,2000,2126.86
+Slovak Republic,2000,36530.654
+Slovenia,2000,14601.994
+Sweden,2000,49794.193
+Swaziland,2000,1188.108
+Sint Maarten (Dutch part),2000,
+Seychelles,2000,564.718
+Syrian Arab Republic,2000,63589.447
+Turks and Caicos Islands,2000,14.668
+Chad,2000,176.016
+Togo,2000,1356.79
+Thailand,2000,201549.321
+Tajikistan,2000,2236.87
+Turkmenistan,2000,35646.907
+Timor-Leste,2000,
+Tonga,2000,121.011
+Trinidad and Tobago,2000,24513.895
+Tunisia,2000,19922.811
+Turkey,2000,216147.648
+Tuvalu,2000,
+Tanzania,2000,2651.241
+Uganda,2000,1532.806
+Ukraine,2000,320774.492
+Upper middle income,2000,8082046.60343004
+Uruguay,2000,5306.149
+United States,2000,5512399.415
+Uzbekistan,2000,119951.237
+St. Vincent and the Grenadines,2000,157.681
+"Venezuela, RB",2000,152415.188
+Virgin Islands (U.S.),2000,
+Vietnam,2000,53582.204
+Vanuatu,2000,80.674
+West Bank and Gaza,2000,799.406
+World,2000,24688032.0
+Samoa,2000,139.346
+"Yemen, Rep.",2000,14638.664
+South Africa,2000,368610.507
+"Congo, Dem. Rep.",2000,1646.483
+Zambia,2000,1818.832
+Zimbabwe,2000,13886.929
+Aruba,2001,2236.87
+Andorra,2001,524.381
+Afghanistan,2001,645.392
+Angola,2001,9732.218
+Albania,2001,3230.627
+United Arab Emirates,2001,101333.878
+Argentina,2001,140471.769
+Armenia,2001,3542.322
+American Samoa,2001,
+Antigua and Barbuda,2001,344.698
+Australia,2001,324859.53
+Austria,2001,63637.118
+Azerbaijan,2001,29438.676
+Burundi,2001,216.353
+Belgium,2001,114766.099
+Benin,2001,1738.158
+Burkina Faso,2001,997.424
+Bangladesh,2001,32449.283
+Bulgaria,2001,46453.556
+Bahrain,2001,13927.266
+"Bahamas, The",2001,1796.83
+Bosnia and Herzegovina,2001,20722.217
+Belarus,2001,52595.781
+Belize,2001,711.398
+Bermuda,2001,495.045
+Bolivia,2001,8830.136
+Brazil,2001,339894.23
+Barbados,2001,1221.111
+Brunei Darussalam,2001,6197.23
+Bhutan,2001,414.371
+Botswana,2001,4334.394
+Central African Republic,2001,245.689
+Canada,2001,527131.25
+Switzerland,2001,42999.242
+Channel Islands,2001,
+Chile,2001,54018.577
+China,2001,3487566.356
+Cote d'Ivoire,2001,7726.369
+Cameroon,2001,3421.311
+"Congo, Rep.",2001,861.745
+Cook Islands,2001,33.003
+Colombia,2001,56273.782
+Comoros,2001,88.008
+Cape Verde,2001,209.019
+Costa Rica,2001,5760.857
+Cuba,2001,25452.647
+Curacao,2001,
+Cayman Islands,2001,454.708
+Cyprus,2001,6846.289
+Czech Republic,2001,124406.642
+Germany,2001,855756.789
+Djibouti,2001,385.035
+Dominica,2001,113.677
+Denmark,2001,49035.124
+Dominican Republic,2001,20234.506
+Algeria,2001,84293.329
+East Asia & Pacific,2001,4375765.61673876
+Europe & Central Asia,2001,2697657.05470323
+Ecuador,2001,23446.798
+"Egypt, Arab Rep.",2001,125451.737
+Euro area,2001,2677408.712
+Eritrea,2001,630.724
+Spain,2001,297833.74
+Estonia,2001,15984.453
+Ethiopia,2001,4308.725
+Finland,2001,56424.129
+Fiji,2001,1122.102
+France,2001,385808.737
+Faeroe Islands,2001,660.06
+"Micronesia, Fed. Sts.",2001,55.005
+Gabon,2001,1782.162
+United Kingdom,2001,550552.379
+Georgia,2001,3769.676
+Ghana,2001,6919.629
+Gibraltar,2001,344.698
+Guinea,2001,1298.118
+"Gambia, The",2001,282.359
+Guinea-Bissau,2001,198.018
+Equatorial Guinea,2001,3094.948
+Greece,2001,93805.527
+Grenada,2001,220.02
+Greenland,2001,539.049
+Guatemala,2001,10626.966
+Guam,2001,
+Guyana,2001,1518.138
+High income,2001,12800476.6932043
+"Hong Kong SAR, China",2001,37971.785
+Honduras,2001,5713.186
+Croatia,2001,20714.883
+Haiti,2001,1569.476
+Hungary,2001,57021.85
+Indonesia,2001,289065.943
+Isle of Man,2001,
+India,2001,1203843.097
+Ireland,2001,43780.313
+"Iran, Islamic Rep.",2001,357085.126
+Iraq,2001,85342.091
+Iceland,2001,2101.191
+Israel,2001,65749.31
+Italy,2001,447054.971
+Jamaica,2001,10626.966
+Jordan,2001,16002.788
+Japan,2001,1202266.287
+Kazakhstan,2001,147908.445
+Kenya,2001,9369.185
+Kyrgyz Republic,2001,3780.677
+Cambodia,2001,2643.907
+Kiribati,2001,25.669
+St. Kitts and Nevis,2001,183.35
+"Korea, Rep.",2001,440216.016
+Kosovo,2001,
+Kuwait,2001,55144.346
+Latin America & Caribbean,2001,1327817.033
+Lao PDR,2001,1199.109
+Lebanon,2001,16208.14
+Liberia,2001,502.379
+Libya,2001,51073.976
+St. Lucia,2001,363.033
+Low income,2001,181787.858
+Liechtenstein,2001,
+Sri Lanka,2001,10245.598
+Lower middle income,2001,2758254.13489036
+Low & middle income,2001,11171872.2387502
+Lesotho,2001,
+Lithuania,2001,12918.841
+Luxembourg,2001,8580.78
+Latvia,2001,6853.623
+"Macao SAR, China",2001,1686.82
+St. Martin (French part),2001,
+Morocco,2001,37715.095
+Monaco,2001,
+Moldova,2001,3714.671
+Madagascar,2001,1741.825
+Maldives,2001,575.719
+Mexico,2001,393604.779
+Marshall Islands,2001,80.674
+Middle income,2001,10990388.5319529
+"Macedonia, FYR",2001,11998.424
+Mali,2001,546.383
+Malta,2001,2486.226
+Myanmar,2001,7348.668
+Middle East & North Africa,2001,872889.013
+Montenegro,2001,
+Mongolia,2001,7884.05
+Northern Mariana Islands,2001,
+Mozambique,2001,1580.477
+Mauritania,2001,1283.45
+Mauritius,2001,2966.603
+Malawi,2001,905.749
+Malaysia,2001,136716.761
+Mayotte,2001,
+Namibia,2001,2086.523
+New Caledonia,2001,2119.526
+Niger,2001,759.069
+Nigeria,2001,83350.91
+Nicaragua,2001,3835.682
+Niue,2001,3.667
+Netherlands,2001,167273.872
+Norway,2001,41092.402
+Nepal,2001,3454.314
+Nauru,2001,139.346
+New Zealand,2001,34202.109
+Oman,2001,20443.525
+Pakistan,2001,108282.843
+Panama,2001,7007.637
+Peru,2001,27165.136
+Philippines,2001,77164.681
+Palau,2001,183.35
+Papua New Guinea,2001,3230.627
+Poland,2001,302806.192
+Puerto Rico,2001,
+"Korea, Dem. Rep.",2001,79922.265
+Portugal,2001,62863.381
+Paraguay,2001,3821.014
+French Polynesia,2001,737.067
+Qatar,2001,30098.736
+Romania,2001,95672.03
+Russian Federation,2001,1544404.721
+Rwanda,2001,689.396
+South Asia,2001,1359910.617
+Saudi Arabia,2001,295842.559
+Sudan,2001,6369.579
+Senegal,2001,4330.727
+Singapore,2001,42764.554
+Small island developing states,2001,195875.087365629
+Solomon Islands,2001,172.349
+Sierra Leone,2001,858.078
+El Salvador,2001,5947.874
+San Marino,2001,
+Somalia,2001,502.379
+Serbia,2001,
+Sub-Saharan Africa,2001,553342.293255363
+Sao Tome and Principe,2001,91.675
+Suriname,2001,2266.206
+Slovak Republic,2001,39357.911
+Slovenia,2001,15148.377
+Sweden,2001,51128.981
+Swaziland,2001,1144.104
+Sint Maarten (Dutch part),2001,
+Seychelles,2001,641.725
+Syrian Arab Republic,2001,60908.87
+Turks and Caicos Islands,2001,14.668
+Chad,2001,172.349
+Togo,2001,1162.439
+Thailand,2001,217086.4
+Tajikistan,2001,2291.875
+Turkmenistan,2001,39680.607
+Timor-Leste,2001,
+Tonga,2001,139.346
+Trinidad and Tobago,2001,25023.608
+Tunisia,2001,20817.559
+Turkey,2001,194538.017
+Tuvalu,2001,
+Tanzania,2001,3127.951
+Uganda,2001,1631.815
+Ukraine,2001,321650.905
+Upper middle income,2001,8231887.87527142
+Uruguay,2001,5089.796
+United States,2001,5389928.949
+Uzbekistan,2001,122037.76
+St. Vincent and the Grenadines,2001,179.683
+"Venezuela, RB",2001,172525.016
+Virgin Islands (U.S.),2001,
+Vietnam,2001,61631.269
+Vanuatu,2001,84.341
+West Bank and Gaza,2001,1353.123
+World,2001,25281600.0
+Samoa,2001,143.013
+"Yemen, Rep.",2001,16252.144
+South Africa,2001,362743.307
+"Congo, Dem. Rep.",2001,1565.809
+Zambia,2001,1906.84
+Zimbabwe,2001,12563.142
+Aruba,2002,2255.205
+Andorra,2002,531.715
+Afghanistan,2002,359.366
+Angola,2002,12665.818
+Albania,2002,3751.341
+United Arab Emirates,2002,84300.663
+Argentina,2002,131406.945
+Armenia,2002,3003.273
+American Samoa,2002,
+Antigua and Barbuda,2002,363.033
+Australia,2002,341397.7
+Austria,2002,65118.586
+Azerbaijan,2002,30007.061
+Burundi,2002,220.02
+Belgium,2002,107531.108
+Benin,2002,2053.52
+Burkina Faso,2002,1004.758
+Bangladesh,2002,33699.73
+Bulgaria,2002,44634.724
+Bahrain,2002,15698.427
+"Bahamas, The",2002,2082.856
+Bosnia and Herzegovina,2002,22944.419
+Belarus,2002,52390.429
+Belize,2002,359.366
+Bermuda,2002,524.381
+Bolivia,2002,8346.092
+Brazil,2002,335185.802
+Barbados,2002,1228.445
+Brunei Darussalam,2002,5320.817
+Bhutan,2002,513.38
+Botswana,2002,4484.741
+Central African Republic,2002,245.689
+Canada,2002,521832.435
+Switzerland,2002,40769.706
+Channel Islands,2002,
+Chile,2002,56072.097
+China,2002,3694242.143
+Cote d'Ivoire,2002,7286.329
+Cameroon,2002,3417.644
+"Congo, Rep.",2002,707.731
+Cook Islands,2002,29.336
+Colombia,2002,55661.393
+Comoros,2002,91.675
+Cape Verde,2002,245.689
+Costa Rica,2002,6325.575
+Cuba,2002,26090.705
+Curacao,2002,
+Cayman Islands,2002,469.376
+Cyprus,2002,7022.305
+Czech Republic,2002,120193.259
+Germany,2002,830909.197
+Djibouti,2002,399.703
+Dominica,2002,102.676
+Denmark,2002,51899.051
+Dominican Republic,2002,21499.621
+Algeria,2002,90853.592
+East Asia & Pacific,2002,4615783.23363672
+Europe & Central Asia,2002,2705846.23764024
+Ecuador,2002,24689.911
+"Egypt, Arab Rep.",2002,127193.562
+Euro area,2002,2674075.409
+Eritrea,2002,605.055
+Spain,2002,314525.924
+Estonia,2002,15471.073
+Ethiopia,2002,4481.074
+Finland,2002,61077.552
+Fiji,2002,858.078
+France,2002,380447.583
+Faeroe Islands,2002,667.394
+"Micronesia, Fed. Sts.",2002,55.005
+Gabon,2002,1778.495
+United Kingdom,2002,531942.354
+Georgia,2002,3388.308
+Ghana,2002,7414.674
+Gibraltar,2002,344.698
+Guinea,2002,1323.787
+"Gambia, The",2002,315.362
+Guinea-Bissau,2002,209.019
+Equatorial Guinea,2002,4979.786
+Greece,2002,93669.848
+Grenada,2002,216.353
+Greenland,2002,539.049
+Guatemala,2002,11173.349
+Guam,2002,
+Guyana,2002,1547.474
+High income,2002,12896363.4825047
+"Hong Kong SAR, China",2002,36952.359
+Honduras,2002,6090.887
+Croatia,2002,21877.322
+Haiti,2002,1826.166
+Hungary,2002,56031.76
+Indonesia,2002,303506.589
+Isle of Man,2002,
+India,2002,1226791.183
+Ireland,2002,43457.617
+"Iran, Islamic Rep.",2002,375211.107
+Iraq,2002,87259.932
+Iceland,2002,2170.864
+Israel,2002,63145.74
+Italy,2002,449284.507
+Jamaica,2002,10300.603
+Jordan,2002,16886.535
+Japan,2002,1216761.938
+Kazakhstan,2002,151945.812
+Kenya,2002,7968.391
+Kyrgyz Republic,2002,4847.774
+Cambodia,2002,2860.26
+Kiribati,2002,25.669
+St. Kitts and Nevis,2002,198.018
+"Korea, Rep.",2002,465584.322
+Kosovo,2002,
+Kuwait,2002,52727.793
+Latin America & Caribbean,2002,1335657.079
+Lao PDR,2002,1323.787
+Lebanon,2002,16039.458
+Liberia,2002,502.379
+Libya,2002,47623.329
+St. Lucia,2002,326.363
+Low income,2002,179609.66
+Liechtenstein,2002,
+Sri Lanka,2002,11008.334
+Lower middle income,2002,2832890.25317423
+Low & middle income,2002,11482963.9505591
+Lesotho,2002,
+Lithuania,2002,13212.201
+Luxembourg,2002,9424.19
+Latvia,2002,6651.938
+"Macao SAR, China",2002,1525.472
+St. Martin (French part),2002,
+Morocco,2002,38254.144
+Monaco,2002,
+Moldova,2002,3986.029
+Madagascar,2002,1235.779
+Maldives,2002,689.396
+Mexico,2002,390781.189
+Marshall Islands,2002,84.341
+Middle income,2002,11303680.9744659
+"Macedonia, FYR",2002,10934.994
+Mali,2002,553.717
+Malta,2002,2299.209
+Myanmar,2002,8173.743
+Middle East & North Africa,2002,893655.234
+Montenegro,2002,
+Mongolia,2002,8287.42
+Northern Mariana Islands,2002,
+Mozambique,2002,1587.811
+Mauritania,2002,1411.795
+Mauritius,2002,2981.271
+Malawi,2002,883.747
+Malaysia,2002,135128.95
+Mayotte,2002,
+Namibia,2002,2214.868
+New Caledonia,2002,2427.554
+Niger,2002,814.074
+Nigeria,2002,98125.253
+Nicaragua,2002,3813.68
+Niue,2002,3.667
+Netherlands,2002,172363.668
+Norway,2002,37429.069
+Nepal,2002,2709.913
+Nauru,2002,139.346
+New Zealand,2002,33641.058
+Oman,2002,25544.322
+Pakistan,2002,114084.037
+Panama,2002,5834.197
+Peru,2002,27187.138
+Philippines,2002,76057.247
+Palau,2002,183.35
+Papua New Guinea,2002,3512.986
+Poland,2002,296931.658
+Puerto Rico,2002,
+"Korea, Dem. Rep.",2002,76530.29
+Portugal,2002,66820.074
+Paraguay,2002,3898.021
+French Polynesia,2002,748.068
+Qatar,2002,30788.132
+Romania,2002,92173.712
+Russian Federation,2002,1537195.399
+Rwanda,2002,689.396
+South Asia,2002,1389855.339
+Saudi Arabia,2002,323458.736
+Sudan,2002,8118.738
+Senegal,2002,4547.08
+Singapore,2002,42060.49
+Small island developing states,2002,199906.046309768
+Solomon Islands,2002,172.349
+Sierra Leone,2002,1191.775
+El Salvador,2002,6039.549
+San Marino,2002,
+Somalia,2002,572.052
+Serbia,2002,
+Sub-Saharan Africa,2002,557337.117948953
+Sao Tome and Principe,2002,106.343
+Suriname,2002,2251.538
+Slovak Republic,2002,39251.568
+Slovenia,2002,15401.4
+Sweden,2002,57425.22
+Swaziland,2002,1125.769
+Sint Maarten (Dutch part),2002,
+Seychelles,2002,542.716
+Syrian Arab Republic,2002,55987.756
+Turks and Caicos Islands,2002,99.009
+Chad,2002,168.682
+Togo,2002,1232.112
+Thailand,2002,230635.965
+Tajikistan,2002,1881.171
+Turkmenistan,2002,41074.067
+Timor-Leste,2002,161.348
+Tonga,2002,143.013
+Trinidad and Tobago,2002,26890.111
+Tunisia,2002,21015.577
+Turkey,2002,205678.363
+Tuvalu,2002,
+Tanzania,2002,3589.993
+Uganda,2002,1705.155
+Ukraine,2002,318684.302
+Upper middle income,2002,8470540.98839869
+Uruguay,2002,4620.42
+United States,2002,5437816.302
+Uzbekistan,2002,126914.87
+St. Vincent and the Grenadines,2002,187.017
+"Venezuela, RB",2002,193261.901
+Virgin Islands (U.S.),2002,
+Vietnam,2002,71348.819
+Vanuatu,2002,84.341
+West Bank and Gaza,2002,1166.106
+World,2002,25483120.0
+Samoa,2002,143.013
+"Yemen, Rep.",2002,15764.433
+South Africa,2002,347686.605
+"Congo, Dem. Rep.",2002,1543.807
+Zambia,2002,1969.179
+Zimbabwe,2002,11932.418
+Aruba,2003,2255.205
+Andorra,2003,535.382
+Afghanistan,2003,583.053
+Angola,2003,9064.824
+Albania,2003,4290.39
+United Arab Emirates,2003,106365.002
+Argentina,2003,142349.273
+Armenia,2003,3428.645
+American Samoa,2003,
+Antigua and Barbuda,2003,388.702
+Australia,2003,346476.495
+Austria,2003,72316.907
+Azerbaijan,2003,31162.166
+Burundi,2003,165.015
+Belgium,2003,114835.772
+Benin,2003,2321.211
+Burkina Faso,2003,1078.098
+Bangladesh,2003,33824.408
+Bulgaria,2003,47307.967
+Bahrain,2003,16468.497
+"Bahamas, The",2003,1870.17
+Bosnia and Herzegovina,2003,23263.448
+Belarus,2003,53721.55
+Belize,2003,374.034
+Bermuda,2003,509.713
+Bolivia,2003,11521.714
+Brazil,2003,324753.187
+Barbados,2003,1268.782
+Brunei Darussalam,2003,5357.487
+Bhutan,2003,465.709
+Botswana,2003,4264.721
+Central African Republic,2003,234.688
+Canada,2003,553478.645
+Switzerland,2003,40241.658
+Channel Islands,2003,
+Chile,2003,56409.461
+China,2003,4525177.009
+Cote d'Ivoire,2003,5460.163
+Cameroon,2003,3795.345
+"Congo, Rep.",2003,1085.432
+Cook Islands,2003,33.003
+Colombia,2003,57421.553
+Comoros,2003,99.009
+Cape Verde,2003,253.023
+Costa Rica,2003,6626.269
+Cuba,2003,25485.65
+Curacao,2003,
+Cayman Islands,2003,480.377
+Cyprus,2003,7748.371
+Czech Republic,2003,122378.791
+Germany,2003,835657.962
+Djibouti,2003,407.037
+Dominica,2003,113.677
+Denmark,2003,55947.419
+Dominican Republic,2003,21521.623
+Algeria,2003,92533.078
+East Asia & Pacific,2003,5508464.62684371
+Europe & Central Asia,2003,2813025.13642366
+Ecuador,2003,26523.411
+"Egypt, Arab Rep.",2003,158880.109
+Euro area,2003,2735824.022
+Eritrea,2003,726.066
+Spain,2003,321097.188
+Estonia,2003,17553.929
+Ethiopia,2003,4946.783
+Finland,2003,68888.262
+Fiji,2003,1657.484
+France,2003,387147.192
+Faeroe Islands,2003,674.728
+"Micronesia, Fed. Sts.",2003,55.005
+Gabon,2003,1334.788
+United Kingdom,2003,540636.811
+Georgia,2003,3773.343
+Ghana,2003,7601.691
+Gibraltar,2003,355.699
+Guinea,2003,1342.122
+"Gambia, The",2003,315.362
+Guinea-Bissau,2003,249.356
+Equatorial Guinea,2003,6017.547
+Greece,2003,95738.036
+Grenada,2003,227.354
+Greenland,2003,535.382
+Guatemala,2003,10670.97
+Guam,2003,
+Guyana,2003,1521.805
+High income,2003,13132316.1910647
+"Hong Kong SAR, China",2003,40065.642
+Honduras,2003,6769.282
+Croatia,2003,23542.14
+Haiti,2003,1734.491
+Hungary,2003,59009.364
+Indonesia,2003,311885.684
+Isle of Man,2003,
+India,2003,1281913.527
+Ireland,2003,42694.881
+"Iran, Islamic Rep.",2003,412317.48
+Iraq,2003,91117.616
+Iceland,2003,2167.197
+Israel,2003,65122.253
+Italy,2003,468349.24
+Jamaica,2003,10722.308
+Jordan,2003,17469.588
+Japan,2003,1237242.133
+Kazakhstan,2003,153815.982
+Kenya,2003,6754.614
+Kyrgyz Republic,2003,5276.813
+Cambodia,2003,3127.951
+Kiribati,2003,25.669
+St. Kitts and Nevis,2003,220.02
+"Korea, Rep.",2003,465771.339
+Kosovo,2003,
+Kuwait,2003,61653.271
+Latin America & Caribbean,2003,1354190.097
+Lao PDR,2003,1356.79
+Lebanon,2003,18221.323
+Liberia,2003,531.715
+Libya,2003,49167.136
+St. Lucia,2003,359.366
+Low income,2003,184387.761
+Liechtenstein,2003,
+Sri Lanka,2003,10659.969
+Lower middle income,2003,2989881.85806412
+Low & middle income,2003,12681177.0113313
+Lesotho,2003,
+Lithuania,2003,12915.174
+Luxembourg,2003,9919.235
+Latvia,2003,7088.311
+"Macao SAR, China",2003,1536.473
+St. Martin (French part),2003,
+Morocco,2003,37561.081
+Monaco,2003,
+Moldova,2003,4290.39
+Madagascar,2003,1756.493
+Maldives,2003,597.721
+Mexico,2003,402068.215
+Marshall Islands,2003,84.341
+Middle income,2003,12497176.9452872
+"Macedonia, FYR",2003,11309.028
+Mali,2003,539.049
+Malta,2003,2581.568
+Myanmar,2003,9611.207
+Middle East & North Africa,2003,987746.787
+Montenegro,2003,
+Mongolia,2003,8034.397
+Northern Mariana Islands,2003,
+Mozambique,2003,1917.841
+Mauritania,2003,1452.132
+Mauritius,2003,3146.286
+Malawi,2003,957.087
+Malaysia,2003,160266.235
+Mayotte,2003,
+Namibia,2003,2361.548
+New Caledonia,2003,2750.25
+Niger,2003,880.08
+Nigeria,2003,93138.133
+Nicaragua,2003,4114.374
+Niue,2003,3.667
+Netherlands,2003,175040.578
+Norway,2003,42625.208
+Nepal,2003,2951.935
+Nauru,2003,143.013
+New Zealand,2003,33714.398
+Oman,2003,32691.305
+Pakistan,2003,118895.141
+Panama,2003,6153.226
+Peru,2003,26380.398
+Philippines,2003,76244.264
+Palau,2003,190.684
+Papua New Guinea,2003,3967.694
+Poland,2003,304856.045
+Puerto Rico,2003,
+"Korea, Dem. Rep.",2003,78209.776
+Portugal,2003,61275.57
+Paraguay,2003,4070.37
+French Polynesia,2003,821.408
+Qatar,2003,35947.601
+Romania,2003,95939.721
+Russian Federation,2003,1584998.411
+Rwanda,2003,682.062
+South Asia,2003,1449891.463
+Saudi Arabia,2003,323671.422
+Sudan,2003,9072.158
+Senegal,2003,5012.789
+Singapore,2003,34653.15
+Small island developing states,2003,193557.043548293
+Solomon Islands,2003,179.683
+Sierra Leone,2003,1224.778
+El Salvador,2003,6552.929
+San Marino,2003,
+Somalia,2003,575.719
+Serbia,2003,
+Sub-Saharan Africa,2003,582613.060511164
+Sao Tome and Principe,2003,110.01
+Suriname,2003,2240.537
+Slovak Republic,2003,39493.59
+Slovenia,2003,15485.741
+Sweden,2003,54781.313
+Swaziland,2003,1041.428
+Sint Maarten (Dutch part),2003,
+Seychelles,2003,557.384
+Syrian Arab Republic,2003,70091.038
+Turks and Caicos Islands,2003,102.676
+Chad,2003,381.368
+Togo,2003,1463.133
+Thailand,2003,245674.332
+Tajikistan,2003,2075.522
+Turkmenistan,2003,43160.59
+Timor-Leste,2003,161.348
+Tonga,2003,176.016
+Trinidad and Tobago,2003,27696.851
+Tunisia,2003,21396.945
+Turkey,2003,218509.196
+Tuvalu,2003,
+Tanzania,2003,3806.346
+Uganda,2003,1719.823
+Ukraine,2003,352259.354
+Upper middle income,2003,9507163.00147117
+Uruguay,2003,4598.418
+United States,2003,5471754.387
+Uzbekistan,2003,122683.152
+St. Vincent and the Grenadines,2003,194.351
+"Venezuela, RB",2003,192103.129
+Virgin Islands (U.S.),2003,
+Vietnam,2003,79438.221
+Vanuatu,2003,88.008
+West Bank and Gaza,2003,1279.783
+World,2003,26706896.0
+Samoa,2003,150.347
+"Yemen, Rep.",2003,17304.573
+South Africa,2003,380810.616
+"Congo, Dem. Rep.",2003,1697.821
+Zambia,2003,2101.191
+Zimbabwe,2003,10626.966
+Aruba,2004,2258.872
+Andorra,2004,564.718
+Afghanistan,2004,704.064
+Angola,2004,18793.375
+Albania,2004,4004.364
+United Arab Emirates,2004,112877.594
+Argentina,2004,155000.423
+Armenia,2004,3644.998
+American Samoa,2004,
+Antigua and Barbuda,2004,407.037
+Australia,2004,349223.078
+Austria,2004,72118.889
+Azerbaijan,2004,32262.266
+Burundi,2004,161.348
+Belgium,2004,111282.449
+Benin,2004,2398.218
+Burkina Faso,2004,1103.767
+Bangladesh,2004,39735.612
+Bulgaria,2004,46787.253
+Bahrain,2004,17275.237
+"Bahamas, The",2004,2009.516
+Bosnia and Herzegovina,2004,24634.906
+Belarus,2004,58220.959
+Belize,2004,381.368
+Bermuda,2004,671.061
+Bolivia,2004,10626.966
+Brazil,2004,341166.679
+Barbados,2004,1294.451
+Brunei Darussalam,2004,5361.154
+Bhutan,2004,469.376
+Botswana,2004,4378.398
+Central African Republic,2004,234.688
+Canada,2004,555865.862
+Switzerland,2004,40443.343
+Channel Islands,2004,
+Chile,2004,62434.342
+China,2004,5288166.032
+Cote d'Ivoire,2004,7664.03
+Cameroon,2004,3956.693
+"Congo, Rep.",2004,1903.173
+Cook Islands,2004,55.005
+Colombia,2004,53772.888
+Comoros,2004,102.676
+Cape Verde,2004,264.024
+Costa Rica,2004,6930.63
+Cuba,2004,23985.847
+Curacao,2004,
+Cayman Islands,2004,495.045
+Cyprus,2004,7334.0
+Czech Republic,2004,122708.821
+Germany,2004,828521.98
+Djibouti,2004,458.375
+Dominica,2004,110.01
+Denmark,2004,50476.255
+Dominican Republic,2004,19999.818
+Algeria,2004,89493.135
+East Asia & Pacific,2004,6353836.84491947
+Europe & Central Asia,2004,2847614.0494991
+Ecuador,2004,28657.605
+"Egypt, Arab Rep.",2004,160581.597
+Euro area,2004,2752241.181
+Eritrea,2004,770.07
+Spain,2004,339428.521
+Estonia,2004,17839.955
+Ethiopia,2004,5196.139
+Finland,2004,66970.421
+Fiji,2004,1888.505
+France,2004,389706.758
+Faeroe Islands,2004,674.728
+"Micronesia, Fed. Sts.",2004,55.005
+Gabon,2004,1481.468
+United Kingdom,2004,545719.273
+Georgia,2004,3927.357
+Ghana,2004,7278.995
+Gibraltar,2004,366.7
+Guinea,2004,1342.122
+"Gambia, The",2004,322.696
+Guinea-Bissau,2004,256.69
+Equatorial Guinea,2004,4679.092
+Greece,2004,97149.831
+Grenada,2004,216.353
+Greenland,2004,498.712
+Guatemala,2004,11206.352
+Guam,2004,
+Guyana,2004,1463.133
+High income,2004,13347825.396706
+"Hong Kong SAR, China",2004,38415.492
+Honduras,2004,7367.003
+Croatia,2004,23047.095
+Haiti,2004,1987.514
+Hungary,2004,57311.543
+Indonesia,2004,333733.67
+Isle of Man,2004,
+India,2004,1346595.74
+Ireland,2004,43211.928
+"Iran, Islamic Rep.",2004,442471.221
+Iraq,2004,98979.664
+Iceland,2004,2233.203
+Israel,2004,63200.745
+Italy,2004,470490.768
+Jamaica,2004,10714.974
+Jordan,2004,19240.749
+Japan,2004,1259658.504
+Kazakhstan,2004,172158.316
+Kenya,2004,7623.693
+Kyrgyz Republic,2004,5606.843
+Cambodia,2004,3498.318
+Kiribati,2004,25.669
+St. Kitts and Nevis,2004,227.354
+"Korea, Rep.",2004,482276.506
+Kosovo,2004,
+Kuwait,2004,69529.987
+Latin America & Caribbean,2004,1371285.651
+Lao PDR,2004,1397.127
+Lebanon,2004,16835.197
+Liberia,2004,627.057
+Libya,2004,50318.574
+St. Lucia,2004,355.699
+Low income,2004,196848.227
+Liechtenstein,2004,
+Sri Lanka,2004,11965.421
+Lower middle income,2004,3131920.65780197
+Low & middle income,2004,13760280.0243234
+Lesotho,2004,
+Lithuania,2004,13325.878
+Luxembourg,2004,11067.006
+Latvia,2004,7132.315
+"Macao SAR, China",2004,1727.157
+St. Martin (French part),2004,
+Morocco,2004,40590.023
+Monaco,2004,
+Moldova,2004,4554.414
+Madagascar,2004,1936.176
+Maldives,2004,751.735
+Mexico,2004,405709.546
+Marshall Islands,2004,88.008
+Middle income,2004,13563858.7106958
+"Macedonia, FYR",2004,11191.684
+Mali,2004,564.718
+Malta,2004,2574.234
+Myanmar,2004,11470.376
+Middle East & North Africa,2004,1029682.599
+Montenegro,2004,
+Mongolia,2004,8551.444
+Northern Mariana Islands,2004,
+Mozambique,2004,1921.508
+Mauritania,2004,1613.48
+Mauritius,2004,3193.957
+Malawi,2004,975.422
+Malaysia,2004,168040.275
+Mayotte,2004,
+Namibia,2004,2497.227
+New Caledonia,2004,2552.232
+Niger,2004,880.08
+Nigeria,2004,97047.155
+Nicaragua,2004,4136.376
+Niue,2004,3.667
+Netherlands,2004,176903.414
+Norway,2004,42665.545
+Nepal,2004,2768.585
+Nauru,2004,143.013
+New Zealand,2004,33545.716
+Oman,2004,31561.869
+Pakistan,2004,131619.631
+Panama,2004,5797.527
+Peru,2004,31895.566
+Philippines,2004,78998.181
+Palau,2004,190.684
+Papua New Guinea,2004,4481.074
+Poland,2004,305138.404
+Puerto Rico,2004,
+"Korea, Dem. Rep.",2004,79925.932
+Portugal,2004,63175.076
+Paraguay,2004,4088.705
+French Polynesia,2004,788.405
+Qatar,2004,44777.737
+Romania,2004,95378.67
+Russian Federation,2004,1602963.044
+Rwanda,2004,689.396
+South Asia,2004,1534610.164
+Saudi Arabia,2004,346018.12
+Sudan,2004,10377.61
+Senegal,2004,5280.48
+Singapore,2004,40769.706
+Small island developing states,2004,204421.302264953
+Solomon Islands,2004,179.683
+Sierra Leone,2004,1067.097
+El Salvador,2004,6277.904
+San Marino,2004,
+Somalia,2004,575.719
+Serbia,2004,
+Sub-Saharan Africa,2004,637167.154478331
+Sao Tome and Principe,2004,113.677
+Suriname,2004,2284.541
+Slovak Republic,2004,38749.189
+Slovenia,2004,15716.762
+Sweden,2004,54506.288
+Swaziland,2004,1030.427
+Sint Maarten (Dutch part),2004,
+Seychelles,2004,773.737
+Syrian Arab Republic,2004,67520.471
+Turks and Caicos Islands,2004,102.676
+Chad,2004,377.701
+Togo,2004,1397.127
+Thailand,2004,267760.673
+Tajikistan,2004,2233.203
+Turkmenistan,2004,39640.27
+Timor-Leste,2004,176.016
+Tonga,2004,172.349
+Trinidad and Tobago,2004,31554.535
+Tunisia,2004,22445.707
+Turkey,2004,225406.823
+Tuvalu,2004,
+Tanzania,2004,4352.729
+Uganda,2004,1833.5
+Ukraine,2004,343121.19
+Upper middle income,2004,10431909.3624451
+Uruguay,2004,5610.51
+United States,2004,5563799.754
+Uzbekistan,2004,119272.842
+St. Vincent and the Grenadines,2004,194.351
+"Venezuela, RB",2004,168278.63
+Virgin Islands (U.S.),2004,
+Vietnam,2004,101678.576
+Vanuatu,2004,88.008
+West Bank and Gaza,2004,1866.503
+World,2004,28106544.0
+Samoa,2004,154.014
+"Yemen, Rep.",2004,18881.383
+South Africa,2004,414165.648
+"Congo, Dem. Rep.",2004,2280.874
+Zambia,2004,2108.525
+Zimbabwe,2004,9926.569
+Aruba,2005,2273.54
+Andorra,2005,575.719
+Afghanistan,2005,700.397
+Angola,2005,19156.408
+Albania,2005,4602.085
+United Arab Emirates,2005,115627.844
+Argentina,2005,158924.113
+Armenia,2005,4349.062
+American Samoa,2005,
+Antigua and Barbuda,2005,410.704
+Australia,2005,367393.063
+Austria,2005,74385.095
+Azerbaijan,2005,34491.802
+Burundi,2005,165.015
+Belgium,2005,107116.737
+Benin,2005,2566.9
+Burkina Faso,2005,1125.769
+Bangladesh,2005,37652.756
+Bulgaria,2005,47909.355
+Bahrain,2005,18595.357
+"Bahamas, The",2005,2108.525
+Bosnia and Herzegovina,2005,25632.33
+Belarus,2005,59042.367
+Belize,2005,396.036
+Bermuda,2005,443.707
+Bolivia,2005,10293.269
+Brazil,2005,349967.479
+Barbados,2005,1353.123
+Brunei Darussalam,2005,5126.466
+Bhutan,2005,682.062
+Botswana,2005,4525.078
+Central African Republic,2005,234.688
+Canada,2005,562796.492
+Switzerland,2005,41374.761
+Channel Islands,2005,
+Chile,2005,63805.8
+China,2005,5790016.984
+Cote d'Ivoire,2005,7825.378
+Cameroon,2005,3696.336
+"Congo, Rep.",2005,1606.146
+Cook Islands,2005,62.339
+Colombia,2005,59178.046
+Comoros,2005,110.01
+Cape Verde,2005,293.36
+Costa Rica,2005,6941.631
+Cuba,2005,24634.906
+Curacao,2005,
+Cayman Islands,2005,517.047
+Cyprus,2005,7502.682
+Czech Republic,2005,120735.975
+Germany,2005,809596.593
+Djibouti,2005,473.043
+Dominica,2005,113.677
+Denmark,2005,46867.927
+Dominican Republic,2005,19761.463
+Algeria,2005,107127.738
+East Asia & Pacific,2005,6892794.56142216
+Europe & Central Asia,2005,2873631.7661219
+Ecuador,2005,29299.33
+"Egypt, Arab Rep.",2005,174640.875
+Euro area,2005,2735853.358
+Eritrea,2005,766.403
+Spain,2005,353462.13
+Estonia,2005,17462.254
+Ethiopia,2005,5489.499
+Finland,2005,54605.297
+Fiji,2005,1635.482
+France,2005,391826.284
+Faeroe Islands,2005,682.062
+"Micronesia, Fed. Sts.",2005,55.005
+Gabon,2005,1785.829
+United Kingdom,2005,542473.978
+Georgia,2005,4734.097
+Ghana,2005,7007.637
+Gibraltar,2005,377.701
+Guinea,2005,1360.457
+"Gambia, The",2005,322.696
+Guinea-Bissau,2005,264.024
+Equatorial Guinea,2005,4712.095
+Greece,2005,98675.303
+Grenada,2005,234.688
+Greenland,2005,630.724
+Guatemala,2005,12156.105
+Guam,2005,
+Guyana,2005,1514.471
+High income,2005,13387488.8787345
+"Hong Kong SAR, China",2005,40549.686
+Honduras,2005,7620.026
+Croatia,2005,23105.767
+Haiti,2005,2075.522
+Hungary,2005,57879.928
+Indonesia,2005,336311.571
+Isle of Man,2005,
+India,2005,1411127.606
+Ireland,2005,43211.928
+"Iran, Islamic Rep.",2005,458866.378
+Iraq,2005,97527.532
+Iceland,2005,2203.867
+Israel,2005,59211.049
+Italy,2005,471400.184
+Jamaica,2005,10128.254
+Jordan,2005,21026.578
+Japan,2005,1238188.219
+Kazakhstan,2005,177233.444
+Kenya,2005,8562.445
+Kyrgyz Republic,2005,5185.138
+Cambodia,2005,3722.005
+Kiribati,2005,25.669
+St. Kitts and Nevis,2005,234.688
+"Korea, Rep.",2005,462918.413
+Kosovo,2005,
+Kuwait,2005,77216.019
+Latin America & Caribbean,2005,1416279.741
+Lao PDR,2005,1426.463
+Lebanon,2005,17539.261
+Liberia,2005,740.734
+Libya,2005,52093.402
+St. Lucia,2005,366.7
+Low income,2005,205263.992
+Liechtenstein,2005,
+Sri Lanka,2005,11642.725
+Lower middle income,2005,3222338.68826833
+Low & middle income,2005,14498599.9361763
+Lesotho,2005,
+Lithuania,2005,14000.606
+Luxembourg,2005,11327.363
+Latvia,2005,7176.319
+"Macao SAR, China",2005,1837.167
+St. Martin (French part),2005,
+Morocco,2005,42823.226
+Monaco,2005,
+Moldova,2005,4895.445
+Madagascar,2005,1705.155
+Maldives,2005,678.395
+Mexico,2005,432665.663
+Marshall Islands,2005,84.341
+Middle income,2005,14293789.90213
+"Macedonia, FYR",2005,11246.689
+Mali,2005,568.385
+Malta,2005,2698.912
+Myanmar,2005,14543.322
+Middle East & North Africa,2005,1082102.364
+Montenegro,2005,2057.187
+Mongolia,2005,8808.134
+Northern Mariana Islands,2005,
+Mozambique,2005,1822.499
+Mauritania,2005,1657.484
+Mauritius,2005,3410.31
+Malawi,2005,916.75
+Malaysia,2005,183445.342
+Mayotte,2005,
+Namibia,2005,2658.575
+New Caledonia,2005,2801.588
+Niger,2005,825.075
+Nigeria,2005,104043.791
+Nicaragua,2005,3975.028
+Niue,2005,3.667
+Netherlands,2005,172227.989
+Norway,2005,42364.851
+Nepal,2005,3234.294
+Nauru,2005,143.013
+New Zealand,2005,33369.7
+Oman,2005,34653.15
+Pakistan,2005,136636.087
+Panama,2005,6032.215
+Peru,2005,37418.068
+Philippines,2005,81066.369
+Palau,2005,194.351
+Papua New Guinea,2005,4613.086
+Poland,2005,303766.946
+Puerto Rico,2005,
+"Korea, Dem. Rep.",2005,83475.588
+Portugal,2005,65309.27
+Paraguay,2005,3832.015
+French Polynesia,2005,854.411
+Qatar,2005,51895.384
+Romania,2005,94960.632
+Russian Federation,2005,1615683.867
+Rwanda,2005,689.396
+South Asia,2005,1602354.322
+Saudi Arabia,2005,367033.697
+Sudan,2005,11994.757
+Senegal,2005,5859.866
+Singapore,2005,50281.904
+Small island developing states,2005,216303.797273547
+Solomon Islands,2005,179.683
+Sierra Leone,2005,1261.448
+El Salvador,2005,6362.245
+San Marino,2005,
+Somalia,2005,579.386
+Serbia,2005,46567.233
+Sub-Saharan Africa,2005,644584.532305892
+Sao Tome and Principe,2005,128.345
+Suriname,2005,2379.883
+Slovak Republic,2005,39174.561
+Slovenia,2005,15870.776
+Sweden,2005,51550.686
+Swaziland,2005,1019.426
+Sint Maarten (Dutch part),2005,
+Seychelles,2005,696.73
+Syrian Arab Republic,2005,64396.187
+Turks and Caicos Islands,2005,121.011
+Chad,2005,399.703
+Togo,2005,1338.455
+Thailand,2005,275164.346
+Tajikistan,2005,2291.875
+Turkmenistan,2005,41759.796
+Timor-Leste,2005,176.016
+Tonga,2005,172.349
+Trinidad and Tobago,2005,30949.48
+Tunisia,2005,22801.406
+Turkey,2005,237368.577
+Tuvalu,2005,
+Tanzania,2005,5086.129
+Uganda,2005,2339.546
+Ukraine,2005,339028.818
+Upper middle income,2005,11071500.1466168
+Uruguay,2005,5775.525
+United States,2005,5595357.956
+Uzbekistan,2005,109599.296
+St. Vincent and the Grenadines,2005,198.018
+"Venezuela, RB",2005,159584.173
+Virgin Islands (U.S.),2005,
+Vietnam,2005,104084.128
+Vanuatu,2005,55.005
+West Bank and Gaza,2005,2742.916
+World,2005,29205744.0
+Samoa,2005,157.681
+"Yemen, Rep.",2005,20043.822
+South Africa,2005,408199.439
+"Congo, Dem. Rep.",2005,2368.882
+Zambia,2005,2258.872
+Zimbabwe,2005,10773.646
+Aruba,2006,2273.54
+Andorra,2006,546.383
+Afghanistan,2006,696.73
+Angola,2006,22266.024
+Albania,2006,4231.718
+United Arab Emirates,2006,122752.825
+Argentina,2006,175528.289
+Armenia,2006,4378.398
+American Samoa,2006,
+Antigua and Barbuda,2006,425.372
+Australia,2006,377381.971
+Austria,2006,72126.223
+Azerbaijan,2006,39317.574
+Burundi,2006,198.018
+Belgium,2006,106816.043
+Benin,2006,3729.339
+Burkina Faso,2006,1360.457
+Bangladesh,2006,46644.24
+Bulgaria,2006,48943.449
+Bahrain,2006,20186.835
+"Bahamas, The",2006,2137.861
+Bosnia and Herzegovina,2006,27469.497
+Belarus,2006,61807.285
+Belize,2006,407.037
+Bermuda,2006,520.714
+Bolivia,2006,10465.618
+Brazil,2006,352541.713
+Barbados,2006,1371.458
+Brunei Darussalam,2006,4822.105
+Bhutan,2006,421.705
+Botswana,2006,4459.072
+Central African Republic,2006,249.356
+Canada,2006,548704.211
+Switzerland,2006,41877.14
+Channel Islands,2006,
+Chile,2006,65697.972
+China,2006,6414463.08
+Cote d'Ivoire,2006,7139.649
+Cameroon,2006,4264.721
+"Congo, Rep.",2006,1463.133
+Cook Islands,2006,66.006
+Colombia,2006,61561.596
+Comoros,2006,121.011
+Cape Verde,2006,308.028
+Costa Rica,2006,7436.676
+Cuba,2006,27168.803
+Curacao,2006,
+Cayman Islands,2006,535.382
+Cyprus,2006,7788.708
+Czech Republic,2006,122785.828
+Germany,2006,811881.134
+Djibouti,2006,487.711
+Dominica,2006,110.01
+Denmark,2006,54418.28
+Dominican Republic,2006,20813.892
+Algeria,2006,107303.754
+East Asia & Pacific,2006,7491421.6400291
+Europe & Central Asia,2006,2983959.15580769
+Ecuador,2006,29842.046
+"Egypt, Arab Rep.",2006,187504.711
+Euro area,2006,2717613.7
+Eritrea,2006,561.051
+Spain,2006,350037.152
+Estonia,2006,16945.207
+Ethiopia,2006,5995.545
+Finland,2006,66075.673
+Fiji,2006,1565.809
+France,2006,382281.083
+Faeroe Islands,2006,689.396
+"Micronesia, Fed. Sts.",2006,55.005
+Gabon,2006,1782.162
+United Kingdom,2006,543273.384
+Georgia,2006,5496.833
+Ghana,2006,9350.85
+Gibraltar,2006,392.369
+Guinea,2006,1360.457
+"Gambia, The",2006,337.364
+Guinea-Bissau,2006,275.025
+Equatorial Guinea,2006,4752.432
+Greece,2006,97285.51
+Grenada,2006,245.689
+Greenland,2006,579.386
+Guatemala,2006,12288.117
+Guam,2006,
+Guyana,2006,1525.472
+High income,2006,13353377.1819163
+"Hong Kong SAR, China",2006,38554.838
+Honduras,2006,7308.331
+Croatia,2006,23175.44
+Haiti,2006,2119.526
+Hungary,2006,57227.202
+Indonesia,2006,338134.07
+Isle of Man,2006,
+India,2006,1504364.748
+Ireland,2006,43112.919
+"Iran, Islamic Rep.",2006,492349.755
+Iraq,2006,100853.501
+Iceland,2006,2233.203
+Israel,2006,65778.646
+Italy,2006,468268.566
+Jamaica,2006,12086.432
+Jordan,2006,20733.218
+Japan,2006,1231770.969
+Kazakhstan,2006,192121.464
+Kenya,2006,9574.537
+Kyrgyz Republic,2006,5170.47
+Cambodia,2006,4074.037
+Kiribati,2006,29.336
+St. Kitts and Nevis,2006,234.688
+"Korea, Rep.",2006,470820.798
+Kosovo,2006,
+Kuwait,2006,71950.207
+Latin America & Caribbean,2006,1449594.436
+Lao PDR,2006,1518.138
+Lebanon,2006,15027.366
+Liberia,2006,759.069
+Libya,2006,53780.222
+St. Lucia,2006,366.7
+Low income,2006,218076.49
+Liechtenstein,2006,
+Sri Lanka,2006,11741.734
+Lower middle income,2006,3304999.46921683
+Low & middle income,2006,15399030.5013459
+Lesotho,2006,
+Lithuania,2006,14293.966
+Luxembourg,2006,11312.695
+Latvia,2006,7590.69
+"Macao SAR, China",2006,1631.815
+St. Martin (French part),2006,
+Morocco,2006,43992.999
+Monaco,2006,
+Moldova,2006,4994.454
+Madagascar,2006,1697.821
+Maldives,2006,869.079
+Mexico,2006,441653.48
+Marshall Islands,2006,91.675
+Middle income,2006,15181436.2575759
+"Macedonia, FYR",2006,10909.325
+Mali,2006,568.385
+Malta,2006,2574.234
+Myanmar,2006,13028.851
+Middle East & North Africa,2006,1136439.97
+Montenegro,2006,2471.558
+Mongolia,2006,9442.525
+Northern Mariana Islands,2006,
+Mozambique,2006,1980.18
+Mauritania,2006,1672.152
+Mauritius,2006,3777.01
+Malawi,2006,953.42
+Malaysia,2006,179418.976
+Mayotte,2006,
+Namibia,2006,2852.926
+New Caledonia,2006,2779.586
+Niger,2006,817.741
+Nigeria,2006,92225.05
+Nicaragua,2006,4239.052
+Niue,2006,3.667
+Netherlands,2006,166841.166
+Norway,2006,44257.023
+Nepal,2006,3325.969
+Nauru,2006,143.013
+New Zealand,2006,33553.05
+Oman,2006,38917.871
+Pakistan,2006,145854.925
+Panama,2006,6824.287
+Peru,2006,35346.213
+Philippines,2006,67630.481
+Palau,2006,205.352
+Papua New Guinea,2006,4594.751
+Poland,2006,319410.368
+Puerto Rico,2006,
+"Korea, Dem. Rep.",2006,85034.063
+Portugal,2006,59108.373
+Paraguay,2006,3986.029
+French Polynesia,2006,821.408
+Qatar,2006,57223.535
+Romania,2006,102001.272
+Russian Federation,2006,1669603.435
+Rwanda,2006,689.396
+South Asia,2006,1713919.13
+Saudi Arabia,2006,383399.518
+Sudan,2006,11683.062
+Senegal,2006,4789.102
+Singapore,2006,47865.351
+Small island developing states,2006,225348.131396025
+Solomon Islands,2006,179.683
+Sierra Leone,2006,1239.446
+El Salvador,2006,6486.923
+San Marino,2006,
+Somalia,2006,575.719
+Serbia,2006,48958.117
+Sub-Saharan Africa,2006,637809.575454934
+Sao Tome and Principe,2006,128.345
+Suriname,2006,2438.555
+Slovak Republic,2006,38928.872
+Slovenia,2006,16230.142
+Sweden,2006,49559.505
+Swaziland,2006,1015.759
+Sint Maarten (Dutch part),2006,
+Seychelles,2006,744.401
+Syrian Arab Republic,2006,68220.868
+Turks and Caicos Islands,2006,143.013
+Chad,2006,407.037
+Togo,2006,1221.111
+Thailand,2006,283987.148
+Tajikistan,2006,2420.22
+Turkmenistan,2006,43871.988
+Timor-Leste,2006,179.683
+Tonga,2006,172.349
+Trinidad and Tobago,2006,34480.801
+Tunisia,2006,23127.769
+Turkey,2006,261570.777
+Tuvalu,2006,
+Tanzania,2006,5379.489
+Uganda,2006,2706.246
+Ukraine,2006,327796.797
+Upper middle income,2006,11876092.5938633
+Uruguay,2006,6648.271
+United States,2006,5514775.631
+Uzbekistan,2006,115345.485
+St. Vincent and the Grenadines,2006,201.685
+"Venezuela, RB",2006,153595.962
+Virgin Islands (U.S.),2006,
+Vietnam,2006,83735.945
+Vanuatu,2006,47.671
+West Bank and Gaza,2006,2266.206
+World,2006,30136400.0
+Samoa,2006,157.681
+"Yemen, Rep.",2006,20791.89
+South Africa,2006,405709.546
+"Congo, Dem. Rep.",2006,2460.557
+Zambia,2006,2284.541
+Zimbabwe,2006,10344.607
+Aruba,2007,2357.881
+Andorra,2007,539.049
+Afghanistan,2007,715.065
+Angola,2007,25151.953
+Albania,2007,4481.074
+United Arab Emirates,2007,137981.876
+Argentina,2007,183727.701
+Armenia,2007,5056.793
+American Samoa,2007,
+Antigua and Barbuda,2007,436.373
+Australia,2007,380814.283
+Austria,2007,68807.588
+Azerbaijan,2007,42236.506
+Burundi,2007,183.35
+Belgium,2007,102529.32
+Benin,2007,3879.686
+Burkina Faso,2007,1646.483
+Bangladesh,2007,46930.266
+Bulgaria,2007,52812.134
+Bahrain,2007,21481.286
+"Bahamas, The",2007,2148.862
+Bosnia and Herzegovina,2007,28987.635
+Belarus,2007,60256.144
+Belize,2007,425.372
+Bermuda,2007,517.047
+Bolivia,2007,13054.52
+Brazil,2007,368368.485
+Barbados,2007,1349.456
+Brunei Darussalam,2007,9559.869
+Bhutan,2007,579.386
+Botswana,2007,4638.755
+Central African Republic,2007,253.023
+Canada,2007,544171.799
+Switzerland,2007,38019.456
+Channel Islands,2007,
+Chile,2007,70098.372
+China,2007,6791804.714
+Cote d'Ivoire,2007,6384.247
+Cameroon,2007,6167.894
+"Congo, Rep.",2007,1591.478
+Cook Islands,2007,66.006
+Colombia,2007,63439.1
+Comoros,2007,121.011
+Cape Verde,2007,311.695
+Costa Rica,2007,8118.738
+Cuba,2007,26838.773
+Curacao,2007,
+Cayman Islands,2007,539.049
+Cyprus,2007,8195.745
+Czech Republic,2007,123944.6
+Germany,2007,787235.227
+Djibouti,2007,487.711
+Dominica,2007,150.347
+Denmark,2007,49695.184
+Dominican Republic,2007,21363.942
+Algeria,2007,112741.915
+East Asia & Pacific,2007,7938274.13422319
+Europe & Central Asia,2007,3050860.81559634
+Ecuador,2007,30898.142
+"Egypt, Arab Rep.",2007,199220.776
+Euro area,2007,2684247.667
+Eritrea,2007,579.386
+Spain,2007,358236.564
+Estonia,2007,19952.147
+Ethiopia,2007,6560.263
+Finland,2007,63923.144
+Fiji,2007,1459.466
+France,2007,374283.356
+Faeroe Islands,2007,696.73
+"Micronesia, Fed. Sts.",2007,62.339
+Gabon,2007,1976.513
+United Kingdom,2007,529621.143
+Georgia,2007,6028.548
+Ghana,2007,9636.876
+Gibraltar,2007,407.037
+Guinea,2007,1389.793
+"Gambia, The",2007,396.036
+Guinea-Bissau,2007,286.026
+Equatorial Guinea,2007,4796.436
+Greece,2007,98213.261
+Grenada,2007,245.689
+Greenland,2007,638.058
+Guatemala,2007,12926.175
+Guam,2007,
+Guyana,2007,1525.472
+High income,2007,13422816.7508701
+"Hong Kong SAR, China",2007,39962.966
+Honduras,2007,9035.488
+Croatia,2007,24367.215
+Haiti,2007,2398.218
+Hungary,2007,55848.41
+Indonesia,2007,368617.841
+Isle of Man,2007,
+India,2007,1612383.567
+Ireland,2007,44411.037
+"Iran, Islamic Rep.",2007,506346.694
+Iraq,2007,100494.135
+Iceland,2007,2339.546
+Israel,2007,36816.68
+Italy,2007,459376.091
+Jamaica,2007,13894.263
+Jordan,2007,21495.954
+Japan,2007,1251187.734
+Kazakhstan,2007,227401.671
+Kenya,2007,9831.227
+Kyrgyz Republic,2007,6461.254
+Cambodia,2007,4440.737
+Kiribati,2007,33.003
+St. Kitts and Nevis,2007,249.356
+"Korea, Rep.",2007,498205.954
+Kosovo,2007,
+Kuwait,2007,73002.636
+Latin America & Caribbean,2007,1515347.413
+Lao PDR,2007,1536.473
+Lebanon,2007,15504.076
+Liberia,2007,678.395
+Libya,2007,54201.927
+St. Lucia,2007,385.035
+Low income,2007,209811.072
+Liechtenstein,2007,
+Sri Lanka,2007,12313.786
+Lower middle income,2007,3528645.41497103
+Low & middle income,2007,16174349.4955203
+Lesotho,2007,
+Lithuania,2007,15137.376
+Luxembourg,2007,10843.319
+Latvia,2007,7928.054
+"Macao SAR, China",2007,1558.475
+St. Martin (French part),2007,
+Morocco,2007,46281.207
+Monaco,2007,
+Moldova,2007,4686.426
+Madagascar,2007,1804.164
+Maldives,2007,898.415
+Mexico,2007,449860.226
+Marshall Islands,2007,99.009
+Middle income,2007,15965016.5582323
+"Macedonia, FYR",2007,11327.363
+Mali,2007,579.386
+Malta,2007,2724.581
+Myanmar,2007,13047.186
+Middle East & North Africa,2007,1175841.885
+Montenegro,2007,1965.512
+Mongolia,2007,10560.96
+Northern Mariana Islands,2007,
+Mozambique,2007,2574.234
+Mauritania,2007,1950.844
+Mauritius,2007,3887.02
+Malawi,2007,953.42
+Malaysia,2007,194919.385
+Mayotte,2007,
+Namibia,2007,2992.272
+New Caledonia,2007,2852.926
+Niger,2007,872.746
+Nigeria,2007,88605.721
+Nicaragua,2007,4510.41
+Niue,2007,3.667
+Netherlands,2007,172495.68
+Norway,2007,44924.417
+Nepal,2007,3421.311
+Nauru,2007,143.013
+New Zealand,2007,32936.994
+Oman,2007,40373.67
+Pakistan,2007,160882.291
+Panama,2007,6651.938
+Peru,2007,43512.622
+Philippines,2007,78580.143
+Palau,2007,212.686
+Papua New Guinea,2007,3113.283
+Poland,2007,315204.319
+Puerto Rico,2007,
+"Korea, Dem. Rep.",2007,70710.761
+Portugal,2007,60234.142
+Paraguay,2007,4136.376
+French Polynesia,2007,839.743
+Qatar,2007,67934.842
+Romania,2007,98422.28
+Russian Federation,2007,1667575.584
+Rwanda,2007,715.065
+South Asia,2007,1838124.087
+Saudi Arabia,2007,397121.432
+Sudan,2007,12676.819
+Senegal,2007,5372.155
+Singapore,2007,36013.607
+Small island developing states,2007,215935.204950675
+Solomon Islands,2007,198.018
+Sierra Leone,2007,1312.786
+El Salvador,2007,6901.294
+San Marino,2007,
+Somalia,2007,630.724
+Serbia,2007,48811.437
+Sub-Saharan Africa,2007,671237.618685763
+Sao Tome and Principe,2007,128.345
+Suriname,2007,2438.555
+Slovak Republic,2007,36592.993
+Slovenia,2007,16193.472
+Sweden,2007,48045.034
+Swaziland,2007,1063.43
+Sint Maarten (Dutch part),2007,
+Seychelles,2007,623.39
+Syrian Arab Republic,2007,70897.778
+Turks and Caicos Islands,2007,157.681
+Chad,2007,462.042
+Togo,2007,1316.453
+Thailand,2007,282091.309
+Tajikistan,2007,3245.295
+Turkmenistan,2007,45866.836
+Timor-Leste,2007,183.35
+Tonga,2007,176.016
+Trinidad and Tobago,2007,37036.7
+Tunisia,2007,23868.503
+Turkey,2007,284658.209
+Tuvalu,2007,
+Tanzania,2007,6039.549
+Uganda,2007,3204.958
+Ukraine,2007,328856.56
+Upper middle income,2007,12436188.1643003
+Uruguay,2007,5999.212
+United States,2007,5581537.033
+Uzbekistan,2007,115840.53
+St. Vincent and the Grenadines,2007,201.685
+"Venezuela, RB",2007,163555.534
+Virgin Islands (U.S.),2007,
+Vietnam,2007,112290.874
+Vanuatu,2007,80.674
+West Bank and Gaza,2007,2324.878
+World,2007,30649360.0
+Samoa,2007,161.348
+"Yemen, Rep.",2007,21976.331
+South Africa,2007,433358.726
+"Congo, Dem. Rep.",2007,2552.232
+Zambia,2007,1719.823
+Zimbabwe,2007,9618.541
+Aruba,2008,2288.208
+Andorra,2008,539.049
+Afghanistan,2008,814.074
+Angola,2008,24370.882
+Albania,2008,4176.713
+United Arab Emirates,2008,155066.429
+Argentina,2008,192378.154
+Armenia,2008,5548.171
+American Samoa,2008,
+Antigua and Barbuda,2008,447.374
+Australia,2008,399218.956
+Austria,2008,67725.823
+Azerbaijan,2008,47139.285
+Burundi,2008,179.683
+Belgium,2008,104879.867
+Benin,2008,4066.703
+Burkina Faso,2008,1855.502
+Bangladesh,2008,46526.896
+Bulgaria,2008,50538.594
+Bahrain,2008,22478.71
+"Bahamas, The",2008,2156.196
+Bosnia and Herzegovina,2008,31275.843
+Belarus,2008,62815.71
+Belize,2008,425.372
+Bermuda,2008,388.702
+Bolivia,2008,12834.5
+Brazil,2008,393219.744
+Barbados,2008,1353.123
+Brunei Darussalam,2008,10593.963
+Bhutan,2008,733.4
+Botswana,2008,4840.44
+Central African Republic,2008,260.357
+Canada,2008,544091.125
+Switzerland,2008,40392.005
+Channel Islands,2008,
+Chile,2008,73108.979
+China,2008,7031916.207
+Cote d'Ivoire,2008,7014.971
+Cameroon,2008,5302.482
+"Congo, Rep.",2008,1936.176
+Cook Islands,2008,69.673
+Colombia,2008,67700.154
+Comoros,2008,124.678
+Cape Verde,2008,308.028
+Costa Rica,2008,8016.062
+Cuba,2008,31418.856
+Curacao,2008,
+Cayman Islands,2008,557.384
+Cyprus,2008,8555.111
+Czech Republic,2008,116995.635
+Germany,2008,786659.508
+Djibouti,2008,524.381
+Dominica,2008,128.345
+Denmark,2008,46024.517
+Dominican Republic,2008,21616.965
+Algeria,2008,111304.451
+East Asia & Pacific,2008,8259297.79712798
+Europe & Central Asia,2008,3110254.40771698
+Ecuador,2008,26824.105
+"Egypt, Arab Rep.",2008,210320.785
+Euro area,2008,2633269.033
+Eritrea,2008,414.371
+Spain,2008,329285.599
+Estonia,2008,18290.996
+Ethiopia,2008,7106.646
+Finland,2008,56512.137
+Fiji,2008,1254.114
+France,2008,376985.935
+Faeroe Islands,2008,707.731
+"Micronesia, Fed. Sts.",2008,62.339
+Gabon,2008,2471.558
+United Kingdom,2008,522855.528
+Georgia,2008,5203.473
+Ghana,2008,8591.781
+Gibraltar,2008,421.705
+Guinea,2008,1393.46
+"Gambia, The",2008,410.704
+Guinea-Bissau,2008,282.359
+Equatorial Guinea,2008,4814.771
+Greece,2008,97813.558
+Grenada,2008,245.689
+Greenland,2008,575.719
+Guatemala,2008,11914.083
+Guam,2008,
+Guyana,2008,1525.472
+High income,2008,13284694.5075709
+"Hong Kong SAR, China",2008,38573.173
+Honduras,2008,8672.455
+Croatia,2008,23303.785
+Haiti,2008,2434.888
+Hungary,2008,54638.3
+Indonesia,2008,406028.575
+Isle of Man,2008,
+India,2008,1742697.746
+Ireland,2008,43604.297
+"Iran, Islamic Rep.",2008,538403.608
+Iraq,2008,102936.357
+Iceland,2008,2229.536
+Israel,2008,37663.757
+Italy,2008,445118.795
+Jamaica,2008,12203.776
+Jordan,2008,21382.277
+Japan,2008,1208162.823
+Kazakhstan,2008,236954.206
+Kenya,2008,10392.278
+Kyrgyz Republic,2008,6208.231
+Cambodia,2008,4602.085
+Kiribati,2008,29.336
+St. Kitts and Nevis,2008,249.356
+"Korea, Rep.",2008,509170.284
+Kosovo,2008,
+Kuwait,2008,76742.976
+Latin America & Caribbean,2008,1584103.663
+Lao PDR,2008,1532.806
+Lebanon,2008,17099.221
+Liberia,2008,608.722
+Libya,2008,58330.969
+St. Lucia,2008,396.036
+Low income,2008,219121.585
+Liechtenstein,2008,
+Sri Lanka,2008,11763.736
+Lower middle income,2008,3743902.66448845
+Low & middle income,2008,16822433.2185276
+Lesotho,2008,
+Lithuania,2008,15130.042
+Luxembourg,2008,10502.288
+Latvia,2008,7590.69
+"Macao SAR, China",2008,1334.788
+St. Martin (French part),2008,
+Morocco,2008,47905.688
+Monaco,2008,
+Moldova,2008,4774.434
+Madagascar,2008,1910.507
+Maldives,2008,920.417
+Mexico,2008,475833.587
+Marshall Islands,2008,99.009
+Middle income,2008,16603810.2595964
+"Macedonia, FYR",2008,11815.074
+Mali,2008,594.054
+Malta,2008,2559.566
+Myanmar,2008,12775.828
+Middle East & North Africa,2008,1230256.498
+Montenegro,2008,1950.844
+Mongolia,2008,10894.657
+Northern Mariana Islands,2008,
+Mozambique,2008,2313.877
+Mauritania,2008,1998.515
+Mauritius,2008,3953.026
+Malawi,2008,1228.445
+Malaysia,2008,208267.265
+Mayotte,2008,
+Namibia,2008,3967.694
+New Caledonia,2008,3149.953
+Niger,2008,850.744
+Nigeria,2008,95756.371
+Nicaragua,2008,4330.727
+Niue,2008,3.667
+Netherlands,2008,173749.794
+Norway,2008,49992.211
+Nepal,2008,3542.322
+Nauru,2008,143.013
+New Zealand,2008,33094.675
+Oman,2008,45749.492
+Pakistan,2008,163177.833
+Panama,2008,6912.295
+Peru,2008,40535.018
+Philippines,2008,83156.559
+Palau,2008,212.686
+Papua New Guinea,2008,2108.525
+Poland,2008,316066.064
+Puerto Rico,2008,
+"Korea, Dem. Rep.",2008,78371.124
+Portugal,2008,56310.452
+Paraguay,2008,4118.041
+French Polynesia,2008,891.081
+Qatar,2008,68477.558
+Romania,2008,94659.938
+Russian Federation,2008,1708653.318
+Rwanda,2008,704.064
+South Asia,2008,1970176.424
+Saudi Arabia,2008,433556.744
+Sudan,2008,14051.944
+Senegal,2008,4976.119
+Singapore,2008,32295.269
+Small island developing states,2008,230301.090734621
+Solomon Islands,2008,198.018
+Sierra Leone,2008,1334.788
+El Salvador,2008,6112.889
+San Marino,2008,
+Somalia,2008,649.059
+Serbia,2008,49933.539
+Sub-Saharan Africa,2008,684558.623763832
+Sao Tome and Principe,2008,128.345
+Suriname,2008,2438.555
+Slovak Republic,2008,37557.414
+Slovenia,2008,17157.893
+Sweden,2008,49049.792
+Swaziland,2008,1092.766
+Sint Maarten (Dutch part),2008,
+Seychelles,2008,682.062
+Syrian Arab Republic,2008,71598.175
+Turks and Caicos Islands,2008,157.681
+Chad,2008,495.045
+Togo,2008,1419.129
+Thailand,2008,285732.64
+Tajikistan,2008,3146.286
+Turkmenistan,2008,47839.682
+Timor-Leste,2008,190.684
+Tonga,2008,176.016
+Trinidad and Tobago,2008,49772.191
+Tunisia,2008,25012.607
+Turkey,2008,283979.814
+Tuvalu,2008,
+Tanzania,2008,6464.921
+Uganda,2008,3747.674
+Ukraine,2008,323532.076
+Upper middle income,2008,12859967.139812
+Uruguay,2008,8327.757
+United States,2008,5461013.744
+Uzbekistan,2008,124905.354
+St. Vincent and the Grenadines,2008,201.685
+"Venezuela, RB",2008,169532.744
+Virgin Islands (U.S.),2008,
+Vietnam,2008,127384.246
+Vanuatu,2008,91.675
+West Bank and Gaza,2008,2053.52
+World,2008,
+Samoa,2008,161.348
+"Yemen, Rep.",2008,23384.459
+South Africa,2008,435877.955
+"Congo, Dem. Rep.",2008,2816.256
+Zambia,2008,1888.505
+Zimbabwe,2008,9075.825
